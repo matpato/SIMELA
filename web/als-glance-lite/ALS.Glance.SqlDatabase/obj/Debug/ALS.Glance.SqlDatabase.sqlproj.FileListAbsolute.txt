@@ -1,0 +1,14 @@
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.SqlDatabase\bin\Debug\ALS.Glance.SqlDatabase.dacpac
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.SqlDatabase\obj\Debug\ALS.Glance.SqlDatabase.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.SqlDatabase\obj\Debug\ALS.Glance.SqlDatabase.pdb
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.SqlDatabase\bin\Debug\ALS.Glance.SqlDatabase.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.SqlDatabase\bin\Debug\ALS.Glance.SqlDatabase.pdb
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.SqlDatabase\bin\Debug\ALS.Glance.SqlDatabase.dacpac
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.SqlDatabase\bin\Debug\ALS.Glance.SqlDatabase.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.SqlDatabase\bin\Debug\ALS.Glance.SqlDatabase.pdb
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.SqlDatabase\obj\Debug\Model.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.SqlDatabase\obj\Debug\refactor.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.SqlDatabase\obj\Debug\postdeploy.sql
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.SqlDatabase\obj\Debug\predeploy.sql
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.SqlDatabase\obj\Debug\ALS.Glance.SqlDatabase.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.SqlDatabase\obj\Debug\ALS.Glance.SqlDatabase.pdb

@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="ALS.Glance.Web\ALS.Glance.Web.Lite.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="ChromeHTML" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets">
+    <Files>
+      <File FileName="ALS.Glance.Core\ALS.Glance.Core.csproj" Line="1" Column="1" />
+      <File FileName="ALS.Glance.Models.Core\ALS.Glance.Models.Core.csproj" Line="1" Column="1" />
+      <File FileName="ALS.Glance.DataAgents.Core\ALS.Glance.DataAgents.Core.csproj" Line="1" Column="1" />
+      <File FileName="ALS.Glance.Models\ALS.Glance.Models.csproj" Line="1" Column="1" />
+      <File FileName="ALS.Glance.DataAgents\ALS.Glance.DataAgents.csproj" Line="1" Column="1" />
+      <File FileName="ALS.Glance.Web\Controllers\HomeController.cs" Line="1" Column="1" />
+      <File FileName="ALS.Glance.Web\Global.asax.cs" Line="1" Column="1" />
+      <File FileName="ALS.Glance.Web\ALS.Glance.Web.Lite.csproj" Line="283" Column="1" />
+      <File FileName="ALS.Glance.Web\dxfdr\Controllers\HomeController.cs" Line="1" Column="1" />
+      <File FileName="C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets" Line="2863" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

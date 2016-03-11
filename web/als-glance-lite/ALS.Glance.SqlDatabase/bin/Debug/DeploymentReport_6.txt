@@ -1,0 +1,71 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[ApplicationSettings] (Table)
+       [dbo].[ApplicationSettings].[IX_dbo.ApplicationSettings_UserIdApplicationId] (Index)
+       [dbo].[AspNetExtApiAuthenticationAccessTokens] (Table)
+       [dbo].[AspNetExtApiAuthenticationAccessTokens].[IX_ExpirationDate] (Index)
+       [dbo].[AspNetExtApiAuthenticationAccessTokens].[IX_AccessToken] (Index)
+       [dbo].[AspNetExtApiAuthenticationAccessTokens].[IX_ApiApplicationId_BaseApiUserId] (Index)
+       [dbo].[AspNetExtApiAuthenticationTokens] (Table)
+       [dbo].[AspNetExtApiAuthenticationTokens].[IX_RefreshToken] (Index)
+       [dbo].[AspNetExtApiAuthenticationTokens].[IX_BaseApiUserId] (Index)
+       [dbo].[AspNetExtApiAuthenticationTokens].[IX_ApiApplicationId] (Index)
+       [dbo].[AspNetExtApplications] (Table)
+       [dbo].[AspNetExtApplications].[IX_Id] (Index)
+       [dbo].[AspNetRoles] (Table)
+       [dbo].[AspNetRoles].[RoleNameIndex] (Index)
+       [dbo].[AspNetUserClaims] (Table)
+       [dbo].[AspNetUserClaims].[IX_UserId] (Index)
+       [dbo].[AspNetUserLogins] (Table)
+       [dbo].[AspNetUserLogins].[IX_UserId] (Index)
+       [dbo].[AspNetUserRoles] (Table)
+       [dbo].[AspNetUserRoles].[IX_RoleId] (Index)
+       [dbo].[AspNetUserRoles].[IX_UserId] (Index)
+       [dbo].[AspNetUsers] (Table)
+       [dbo].[AspNetUsers].[UserNameIndex] (Index)
+       [dbo].[D_Date] (Table)
+       [dbo].[D_Emg] (Table)
+       [dbo].[D_Muscle] (Table)
+       [dbo].[D_Patient] (Table)
+       [dbo].[D_Time] (Table)
+       [dbo].[Fact] (Table)
+       [dbo].[DF__D_Date__CreatedO__2D27B809] (Default Constraint)
+       [dbo].[DF__D_Date__UpdatedO__2E1BDC42] (Default Constraint)
+       [dbo].[DF__D_Emg__CreatedOn__5DCAEF64] (Default Constraint)
+       [dbo].[DF__D_Emg__UpdatedOn__5EBF139D] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[D_Muscle] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[D_Muscle] (Default Constraint)
+       [dbo].[DF__D_Patient__Creat__1DE57479] (Default Constraint)
+       [dbo].[DF__D_Patient__Updat__1ED998B2] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[D_Time] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[D_Time] (Default Constraint)
+       [dbo].[FK_dbo.ApplicationSettings_dbo.AspNetExtApiApplications_ApplicationId] (Foreign Key)
+       [dbo].[FK_dbo.AspNetExtApiAuthenticationAccessTokens_dbo.AspNetExtApiApplications_ApplicationId] (Foreign Key)
+       [dbo].[FK_dbo.AspNetExtApiAuthenticationAccessTokens_dbo.AspNetExtApiAuthenticationTokens_ApiApplicationId_BaseApiUserId
+         ] (Foreign Key)
+       [dbo].[FK_dbo.AspNetExtApiAuthenticationTokens_dbo.AspNetExtApiApplications_ApiApplicationId] (Foreign Key)
+       [dbo].[FK_dbo.AspNetExtApiAuthenticationTokens_dbo.AspNetExtApiUsers_BaseApiUserId] (Foreign Key)
+       [dbo].[FK_dbo.AspNetExtApplications_dbo.AspNetUsers_Id] (Foreign Key)
+       [dbo].[FK_dbo.AspNetUserClaims_dbo.AspNetUsers_UserId] (Foreign Key)
+       [dbo].[FK_dbo.AspNetUserLogins_dbo.AspNetUsers_UserId] (Foreign Key)
+       [dbo].[FK_dbo.AspNetUserRoles_dbo.AspNetRoles_RoleId] (Foreign Key)
+       [dbo].[FK_dbo.AspNetUserRoles_dbo.AspNetUsers_UserId] (Foreign Key)
+       [dbo].[FK_dbo.Fact_dbo.Date_DateId] (Foreign Key)
+       [dbo].[FK_dbo.Fact_dbo.Emg_EmgId] (Foreign Key)
+       [dbo].[FK_dbo.Fact_dbo.Muscle_MuscleId] (Foreign Key)
+       [dbo].[FK_dbo.Fact_dbo.Patient_PatientId] (Foreign Key)
+       [dbo].[FK_dbo.Fact_dbo.Time_TimeId] (Foreign Key)
+       [dbo].[Facts] (View)
+       [dbo].[Facts].[idx_Facts] (Index)
+
+** Supporting actions

@@ -1,0 +1,490 @@
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.dll.config
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.pdb
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.Core.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.Models.Core.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.Models.Security.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Client.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Core.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Edm.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.Spatial.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\Newtonsoft.Json.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Extensions.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Formatting.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Primitives.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.Core.pdb
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.Models.Core.pdb
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.Models.Security.pdb
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Client.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Core.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Edm.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.Spatial.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\Newtonsoft.Json.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Extensions.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Formatting.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Primitives.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.csproj.App.config
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.csprojResolveAssemblyReference.cache
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.pdb
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.dll.config
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.pdb
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.Core.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.Models.Core.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Client.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Core.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Edm.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.Spatial.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Newtonsoft.Json.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Extensions.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Formatting.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Primitives.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.Core.pdb
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.Models.Core.pdb
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Client.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Core.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Edm.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.Spatial.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Newtonsoft.Json.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Extensions.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Formatting.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Primitives.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.csproj.App.config
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.csprojResolveAssemblyReference.cache
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.pdb
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.dll.config
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.pdb
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.Core.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.Models.Core.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Client.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Core.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Edm.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.Spatial.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Newtonsoft.Json.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Extensions.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Formatting.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Primitives.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.Core.pdb
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.Models.Core.pdb
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Client.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Core.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Edm.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.Spatial.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Newtonsoft.Json.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Extensions.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Formatting.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Primitives.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.OData.Client.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.OData.Client.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.OData.Client.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.OData.Client.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.OData.Client.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.OData.Client.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.OData.Client.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.OData.Client.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.OData.Client.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.OData.Core.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.OData.Core.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.OData.Core.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.OData.Core.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.OData.Core.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.OData.Core.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.OData.Core.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.OData.Core.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.OData.Core.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.OData.Edm.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.OData.Edm.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.OData.Edm.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.OData.Edm.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.OData.Edm.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.OData.Edm.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.OData.Edm.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.OData.Edm.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.OData.Edm.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.Spatial.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.Spatial.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.Spatial.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.Spatial.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.Spatial.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.Spatial.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.Spatial.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.Spatial.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.Spatial.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.csproj.App.config
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.csprojResolveAssemblyReference.cache
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.pdb
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Antlr3.Runtime.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\System.Web.Optimization.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\WebGrease.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Antlr3.Runtime.pdb
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\System.Web.Optimization.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.dll.config
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.pdb
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.Core.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.Models.Core.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Antlr3.Runtime.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Client.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Core.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Edm.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.Spatial.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Newtonsoft.Json.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Extensions.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Formatting.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Primitives.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\System.Web.Optimization.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\WebGrease.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.Core.pdb
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.Models.Core.pdb
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Antlr3.Runtime.pdb
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Client.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Core.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Edm.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Microsoft.Spatial.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\Newtonsoft.Json.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Extensions.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Formatting.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Primitives.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\System.Web.Optimization.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.csproj.App.config
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.csprojResolveAssemblyReference.cache
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.pdb
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.csproj.App.config
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.csprojResolveAssemblyReference.cache
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.pdb
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.dll.config
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.pdb
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.Core.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.Models.Core.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Antlr3.Runtime.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Microsoft.Data.Edm.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Microsoft.Data.OData.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Client.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Core.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Edm.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Microsoft.Spatial.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Newtonsoft.Json.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Simple.OData.Client.Net40.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Extensions.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Formatting.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Primitives.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\System.Spatial.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\System.Web.Optimization.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\WebGrease.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.Core.pdb
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.Models.Core.pdb
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Antlr3.Runtime.pdb
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Microsoft.Data.Edm.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Microsoft.Data.OData.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Client.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Core.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Edm.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Microsoft.Spatial.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Newtonsoft.Json.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\Simple.OData.Client.Net40.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Extensions.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Formatting.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Primitives.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\System.Spatial.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\System.Web.Optimization.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\de\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\es\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\fr\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\it\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ja\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ko\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\ru\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.dll.config
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.pdb
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.Core.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.Models.Core.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.Models.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Antlr3.Runtime.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Microsoft.Data.Edm.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Microsoft.Data.OData.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Client.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Core.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Edm.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Microsoft.Spatial.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Newtonsoft.Json.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Simple.OData.Client.Net40.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Extensions.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Formatting.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Primitives.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\System.Spatial.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\System.Web.Optimization.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\WebGrease.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.DataAgents.Core.pdb
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.Models.Core.pdb
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ALS.Glance.Models.pdb
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\System.Web.Optimization.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Antlr3.Runtime.pdb
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Microsoft.Data.Edm.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Microsoft.Data.OData.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Client.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Core.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Microsoft.OData.Edm.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Microsoft.Spatial.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Newtonsoft.Json.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\Simple.OData.Client.Net40.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Extensions.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Formatting.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\System.Net.Http.Primitives.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\System.Spatial.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\de\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\es\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\fr\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\it\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ja\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ko\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ru\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\zh-Hans\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\zh-Hant\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\de\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\es\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\fr\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\it\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ja\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ko\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\ru\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.csproj.App.config
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.csprojResolveAssemblyReference.cache
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents\obj\Debug\ALS.Glance.DataAgents.pdb

@@ -1,0 +1,760 @@
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ALS.Glance.Web.dll.config
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ALS.Glance.Web.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ALS.Glance.Web.pdb
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ALS.Glance.DataAgents.Core.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ALS.Glance.DataAgents.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ALS.Glance.Models.Core.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ALS.Glance.Models.Security.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ALS.Glance.UoW.Core.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ALS.Glance.UoW.EF.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ALS.Glance.UoW.IoC.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ALS.Glance.UoW.Security.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Antlr3.Runtime.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Castle.Core.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Castle.Windsor.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\EntityFramework.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\EntityFramework.SqlServer.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Core.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.OData.Client.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.OData.Core.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.OData.Edm.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.Owin.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Cookies.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Facebook.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Google.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.OAuth.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Twitter.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.Spatial.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.Web.Infrastructure.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Newtonsoft.Json.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Owin.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\System.Web.Helpers.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\System.Web.Mvc.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\System.Web.Optimization.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\System.Web.Razor.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\System.Web.WebPages.Deployment.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\System.Web.WebPages.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\System.Web.WebPages.Razor.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\WebGrease.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\System.Net.Http.Formatting.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ALS.Glance.DataAgents.Core.pdb
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ALS.Glance.DataAgents.pdb
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ALS.Glance.Models.Core.pdb
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ALS.Glance.Models.Security.pdb
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ALS.Glance.UoW.Core.pdb
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ALS.Glance.UoW.EF.pdb
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ALS.Glance.UoW.IoC.pdb
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ALS.Glance.UoW.Security.pdb
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Castle.Core.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Castle.Windsor.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Core.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.OData.Client.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.OData.Core.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.OData.Edm.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.Owin.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.Spatial.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Newtonsoft.Json.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\System.Web.Helpers.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\System.Web.Mvc.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\System.Web.Optimization.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\System.Web.Razor.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\System.Web.WebPages.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\System.Web.WebPages.Deployment.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\System.Web.WebPages.Razor.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Antlr3.Runtime.pdb
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\EntityFramework.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\EntityFramework.SqlServer.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Facebook.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Cookies.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.OAuth.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Google.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Twitter.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\System.Net.Http.Formatting.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\de\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\es\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\fr\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\it\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ja\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ko\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ru\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\zh-Hans\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\zh-Hant\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\de\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\es\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\fr\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\it\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ja\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ko\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ru\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\de\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\es\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\fr\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\it\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ja\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ko\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ru\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\de\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\es\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\fr\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\it\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ja\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ko\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\ru\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\zh-Hans\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\bin\zh-Hant\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.csprojResolveAssemblyReference.cache
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.pdb
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.Web.dll.config
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.Web.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.Web.pdb
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.DataAgents.Core.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.DataAgents.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.Models.Core.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Antlr3.Runtime.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Castle.Core.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Castle.Windsor.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\EntityFramework.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\EntityFramework.SqlServer.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Core.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.OData.Client.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.OData.Core.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.OData.Edm.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Cookies.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Facebook.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Google.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.OAuth.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Twitter.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Spatial.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Web.Infrastructure.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Newtonsoft.Json.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Owin.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Helpers.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Mvc.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Optimization.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Razor.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.WebPages.Deployment.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.WebPages.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.WebPages.Razor.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\WebGrease.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Net.Http.Formatting.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.DataAgents.Core.pdb
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.DataAgents.pdb
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.Models.Core.pdb
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Castle.Core.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Castle.Windsor.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Core.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.OData.Client.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.OData.Core.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.OData.Edm.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Spatial.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Newtonsoft.Json.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Helpers.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Mvc.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Optimization.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Razor.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.WebPages.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.WebPages.Deployment.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.WebPages.Razor.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Antlr3.Runtime.pdb
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\EntityFramework.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\EntityFramework.SqlServer.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Facebook.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Cookies.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.OAuth.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Google.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Twitter.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Net.Http.Formatting.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\de\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\es\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\fr\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\it\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ja\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ko\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ru\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hans\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hant\Microsoft.OData.Client.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\de\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\es\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\fr\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\it\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ja\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ko\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ru\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\de\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\es\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\fr\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\it\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ja\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ko\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ru\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\de\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\es\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\fr\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\it\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ja\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ko\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ru\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hans\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hant\Microsoft.Spatial.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.csprojResolveAssemblyReference.cache
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.pdb
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.DataAgents.dll.config
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\pt-PT\ALS.Glance.Web.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.Resources.Resources.resources
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.Resources.Resources.pt-PT.resources
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.csproj.GenerateResource.Cache
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\obj\Debug\pt-PT\ALS.Glance.Web.resources.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.Core.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.Core.pdb
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.Web.dll.config
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.Web.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.Web.pdb
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\pt-PT\ALS.Glance.Web.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.Core.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.DataAgents.Core.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.DataAgents.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.Models.Core.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Antlr3.Runtime.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Castle.Core.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Castle.Windsor.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\EntityFramework.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\EntityFramework.SqlServer.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.OData.Client.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.OData.Core.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.OData.Edm.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Spatial.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Newtonsoft.Json.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Owin.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Helpers.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Http.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Mvc.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Optimization.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Razor.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.WebPages.Deployment.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.WebPages.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.WebPages.Razor.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\WebGrease.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Net.Http.Formatting.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.Core.pdb
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.DataAgents.Core.pdb
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.DataAgents.pdb
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.DataAgents.dll.config
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.Models.Core.pdb
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Castle.Core.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Castle.Windsor.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.OData.Client.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.OData.Core.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.OData.Edm.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Spatial.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Newtonsoft.Json.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Helpers.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Mvc.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Optimization.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Razor.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.WebPages.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.WebPages.Deployment.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.WebPages.Razor.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Antlr3.Runtime.pdb
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\EntityFramework.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\EntityFramework.SqlServer.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Net.Http.Formatting.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\de\Microsoft.OData.Client.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\es\Microsoft.OData.Client.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\fr\Microsoft.OData.Client.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\it\Microsoft.OData.Client.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ja\Microsoft.OData.Client.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ko\Microsoft.OData.Client.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ru\Microsoft.OData.Client.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hans\Microsoft.OData.Client.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hant\Microsoft.OData.Client.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\de\Microsoft.OData.Core.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\es\Microsoft.OData.Core.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\fr\Microsoft.OData.Core.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\it\Microsoft.OData.Core.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ja\Microsoft.OData.Core.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ko\Microsoft.OData.Core.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ru\Microsoft.OData.Core.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\de\Microsoft.OData.Edm.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\es\Microsoft.OData.Edm.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\fr\Microsoft.OData.Edm.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\it\Microsoft.OData.Edm.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ja\Microsoft.OData.Edm.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ko\Microsoft.OData.Edm.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ru\Microsoft.OData.Edm.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\de\Microsoft.Spatial.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\es\Microsoft.Spatial.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\fr\Microsoft.Spatial.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\it\Microsoft.Spatial.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ja\Microsoft.Spatial.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ko\Microsoft.Spatial.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\ru\Microsoft.Spatial.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hans\Microsoft.Spatial.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hant\Microsoft.Spatial.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.csprojResolveAssemblyReference.cache
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.Resources.Resources.resources
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.Resources.Resources.pt-PT.resources
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.csproj.GenerateResource.Cache
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\obj\Debug\pt-PT\ALS.Glance.Web.resources.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.pdb
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.Web.dll.config
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.Web.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.Web.pdb
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\pt-PT\ALS.Glance.Web.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.Core.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.DataAgents.Core.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.DataAgents.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.Models.Core.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Antlr3.Runtime.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Castle.Core.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Castle.Windsor.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\EntityFramework.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\EntityFramework.SqlServer.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.OData.Client.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.OData.Core.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.OData.Edm.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Spatial.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Newtonsoft.Json.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Owin.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Helpers.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Http.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Mvc.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Optimization.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Razor.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.WebPages.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.WebPages.Razor.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\WebGrease.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Net.Http.Formatting.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.Core.pdb
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.DataAgents.Core.pdb
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.DataAgents.pdb
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.DataAgents.dll.config
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ALS.Glance.Models.Core.pdb
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Antlr3.Runtime.pdb
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Castle.Core.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Castle.Windsor.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\EntityFramework.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\EntityFramework.SqlServer.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.OData.Client.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.OData.Core.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.OData.Edm.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Microsoft.Spatial.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\Newtonsoft.Json.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Helpers.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Mvc.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Optimization.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.Razor.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.WebPages.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Web.WebPages.Razor.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\System.Net.Http.Formatting.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\de\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\es\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\fr\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\it\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ja\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ko\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ru\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hans\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hant\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\de\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\es\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\fr\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\it\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ja\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ko\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ru\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\de\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\es\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\fr\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\it\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ja\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ko\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ru\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\de\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\es\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\fr\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\it\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ja\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ko\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\ru\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hans\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\bin\zh-Hant\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.csprojResolveAssemblyReference.cache
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.Resources.Resources.resources
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.Resources.Resources.pt-PT.resources
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.csproj.GenerateResource.Cache
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\obj\Debug\pt-PT\ALS.Glance.Web.resources.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.pdb
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.pdb
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ALS.Glance.Web.dll.config
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ALS.Glance.Web.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ALS.Glance.Web.pdb
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\pt-PT\ALS.Glance.Web.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ALS.Glance.Core.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ALS.Glance.DataAgents.Core.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ALS.Glance.DataAgents.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ALS.Glance.Models.Core.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Antlr3.Runtime.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Castle.Core.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Castle.Windsor.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\EntityFramework.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\EntityFramework.SqlServer.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.OData.Client.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.OData.Core.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.OData.Edm.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.Owin.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.Owin.Security.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.Spatial.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Newtonsoft.Json.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Owin.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\System.Web.Helpers.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\System.Web.Http.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\System.Web.Mvc.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\System.Web.Optimization.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\System.Web.Razor.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\System.Web.WebPages.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\System.Web.WebPages.Razor.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\WebGrease.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\System.Net.Http.Formatting.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ALS.Glance.Core.pdb
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ALS.Glance.DataAgents.Core.pdb
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ALS.Glance.DataAgents.pdb
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ALS.Glance.DataAgents.dll.config
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ALS.Glance.Models.Core.pdb
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Antlr3.Runtime.pdb
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Castle.Core.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Castle.Windsor.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\EntityFramework.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\EntityFramework.SqlServer.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.OData.Client.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.OData.Core.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.OData.Edm.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.Owin.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.Owin.Security.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Microsoft.Spatial.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\Newtonsoft.Json.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\System.Web.Helpers.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\System.Web.Mvc.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\System.Web.Optimization.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\System.Web.Razor.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\System.Web.WebPages.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\System.Web.WebPages.Razor.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\System.Net.Http.Formatting.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\de\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\es\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\fr\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\it\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ja\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ko\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ru\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\zh-Hans\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\zh-Hant\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\de\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\es\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\fr\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\it\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ja\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ko\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ru\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\de\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\es\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\fr\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\it\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ja\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ko\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ru\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\de\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\es\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\fr\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\it\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ja\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ko\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\ru\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\zh-Hans\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\bin\zh-Hant\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.csprojResolveAssemblyReference.cache
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.Resources.Resources.resources
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.Resources.Resources.pt-PT.resources
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.csproj.GenerateResource.Cache
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Web\obj\Debug\pt-PT\ALS.Glance.Web.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.csprojResolveAssemblyReference.cache
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.Resources.Resources.resources
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.Resources.Resources.pt-PT.resources
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.csproj.GenerateResource.Cache
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\obj\Debug\pt-PT\ALS.Glance.Web.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\obj\Debug\ALS.Glance.Web.pdb
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ALS.Glance.Web.dll.config
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ALS.Glance.Web.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ALS.Glance.Web.pdb
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\pt-PT\ALS.Glance.Web.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ALS.Glance.Core.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ALS.Glance.DataAgents.Core.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ALS.Glance.DataAgents.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ALS.Glance.Models.Core.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ALS.Glance.Models.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Antlr3.Runtime.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Castle.Core.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Castle.Windsor.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\EntityFramework.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\EntityFramework.SqlServer.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.OData.Client.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.OData.Core.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.OData.Edm.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Owin.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Owin.Security.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Spatial.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Newtonsoft.Json.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Owin.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\System.Web.Helpers.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\System.Web.Http.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\System.Web.Mvc.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\System.Web.Optimization.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\System.Web.Razor.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\System.Web.WebPages.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\System.Web.WebPages.Razor.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\WebGrease.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Simple.OData.Client.Net40.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\System.Net.Http.Formatting.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Data.Edm.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Data.OData.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\System.Spatial.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Threading.Tasks.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\System.Net.Http.Extensions.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ALS.Glance.Core.pdb
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ALS.Glance.DataAgents.Core.pdb
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ALS.Glance.DataAgents.pdb
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ALS.Glance.DataAgents.dll.config
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ALS.Glance.Models.Core.pdb
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ALS.Glance.Models.pdb
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Antlr3.Runtime.pdb
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Castle.Core.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Castle.Windsor.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\EntityFramework.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\EntityFramework.SqlServer.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.OData.Client.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.OData.Core.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.OData.Edm.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Owin.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Owin.Security.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Spatial.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Newtonsoft.Json.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\System.Web.Helpers.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\System.Web.Mvc.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\System.Web.Optimization.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\System.Web.Razor.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\System.Web.WebPages.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\System.Web.WebPages.Razor.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Simple.OData.Client.Net40.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Data.Edm.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Data.OData.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\System.Spatial.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\Microsoft.Threading.Tasks.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\System.Net.Http.Extensions.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\de\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\es\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\fr\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\it\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ja\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ko\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ru\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\zh-Hans\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\zh-Hant\Microsoft.OData.Client.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\de\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\es\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\fr\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\it\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ja\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ko\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ru\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\de\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\es\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\fr\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\it\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ja\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ko\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ru\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\de\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\es\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\fr\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\it\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ja\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ko\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ru\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\zh-Hans\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\zh-Hant\Microsoft.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\de\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\es\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\it\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\de\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\es\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\fr\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\it\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ja\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ko\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\ru\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\zh-Hans\System.Spatial.resources.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Web\bin\zh-Hant\System.Spatial.resources.dll

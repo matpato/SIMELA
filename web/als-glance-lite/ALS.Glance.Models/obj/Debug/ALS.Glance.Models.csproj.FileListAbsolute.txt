@@ -1,0 +1,67 @@
+F:\MEOCloud\ISEL\PS\ALS.Glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.dll
+F:\MEOCloud\ISEL\PS\ALS.Glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.pdb
+F:\MEOCloud\ISEL\PS\ALS.Glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.Core.dll
+F:\MEOCloud\ISEL\PS\ALS.Glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.Core.pdb
+F:\MEOCloud\ISEL\PS\ALS.Glance\ALS.Glance.Models\obj\Debug\ALS.Glance.Models.csprojResolveAssemblyReference.cache
+F:\MEOCloud\ISEL\PS\ALS.Glance\ALS.Glance.Models\obj\Debug\ALS.Glance.Models.dll
+F:\MEOCloud\ISEL\PS\ALS.Glance\ALS.Glance.Models\obj\Debug\ALS.Glance.Models.pdb
+F:\MEOCloud\ISEL\PS\Server\ALS.Glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.dll
+F:\MEOCloud\ISEL\PS\Server\ALS.Glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.pdb
+F:\MEOCloud\ISEL\PS\Server\ALS.Glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.Core.dll
+F:\MEOCloud\ISEL\PS\Server\ALS.Glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.Core.pdb
+F:\MEOCloud\ISEL\PS\Server\ALS.Glance\ALS.Glance.Models\obj\Debug\ALS.Glance.Models.csprojResolveAssemblyReference.cache
+F:\MEOCloud\ISEL\PS\Server\ALS.Glance\ALS.Glance.Models\obj\Debug\ALS.Glance.Models.dll
+F:\MEOCloud\ISEL\PS\Server\ALS.Glance\ALS.Glance.Models\obj\Debug\ALS.Glance.Models.pdb
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.pdb
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.Core.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.Security.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.Core.pdb
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.Security.pdb
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Models\obj\Debug\ALS.Glance.Models.csprojResolveAssemblyReference.cache
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Models\obj\Debug\ALS.Glance.Models.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.Models\obj\Debug\ALS.Glance.Models.pdb
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.pdb
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.Core.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.Security.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.Core.pdb
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.Security.pdb
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Models\obj\Debug\ALS.Glance.Models.csprojResolveAssemblyReference.cache
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Models\obj\Debug\ALS.Glance.Models.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Models\obj\Debug\ALS.Glance.Models.pdb
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.pdb
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.Core.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.Security.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.Core.pdb
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.Security.pdb
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Models\obj\Debug\ALS.Glance.Models.csprojResolveAssemblyReference.cache
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Models\obj\Debug\ALS.Glance.Models.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.Models\obj\Debug\ALS.Glance.Models.pdb
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.pdb
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.Core.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.Security.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.Core.pdb
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.Security.pdb
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Models\obj\Debug\ALS.Glance.Models.csprojResolveAssemblyReference.cache
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Models\obj\Debug\ALS.Glance.Models.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.Models\obj\Debug\ALS.Glance.Models.pdb
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.pdb
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.Core.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Models\bin\Debug\ALS.Glance.Models.Core.pdb
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Models\obj\Debug\ALS.Glance.Models.csprojResolveAssemblyReference.cache
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Models\obj\Debug\ALS.Glance.Models.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.Models\obj\Debug\ALS.Glance.Models.pdb

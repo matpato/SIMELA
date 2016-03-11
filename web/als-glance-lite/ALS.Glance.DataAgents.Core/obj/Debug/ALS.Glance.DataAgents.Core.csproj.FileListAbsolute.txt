@@ -1,0 +1,85 @@
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents.Core\bin\Debug\ALS.Glance.DataAgents.Core.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents.Core\bin\Debug\ALS.Glance.DataAgents.Core.pdb
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents.Core\bin\Debug\ALS.Glance.Models.Core.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents.Core\bin\Debug\Newtonsoft.Json.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents.Core\bin\Debug\ALS.Glance.Models.Core.pdb
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents.Core\bin\Debug\Newtonsoft.Json.xml
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents.Core\obj\Debug\ALS.Glance.DataAgents.Core.csprojResolveAssemblyReference.cache
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents.Core\obj\Debug\ALS.Glance.DataAgents.Core.dll
+F:\MEOCloud\ISEL\PS\Git\source\ALS.Glance\ALS.Glance.DataAgents.Core\obj\Debug\ALS.Glance.DataAgents.Core.pdb
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\ALS.Glance.DataAgents.Core.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\ALS.Glance.DataAgents.Core.pdb
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\ALS.Glance.Models.Core.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\Newtonsoft.Json.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\ALS.Glance.Models.Core.pdb
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\Newtonsoft.Json.xml
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\obj\Debug\ALS.Glance.DataAgents.Core.csprojResolveAssemblyReference.cache
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\obj\Debug\ALS.Glance.DataAgents.Core.dll
+F:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\obj\Debug\ALS.Glance.DataAgents.Core.pdb
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\ALS.Glance.DataAgents.Core.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\ALS.Glance.DataAgents.Core.pdb
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\ALS.Glance.Models.Core.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\Newtonsoft.Json.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\ALS.Glance.Models.Core.pdb
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\Newtonsoft.Json.xml
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\obj\Debug\ALS.Glance.DataAgents.Core.csprojResolveAssemblyReference.cache
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\obj\Debug\ALS.Glance.DataAgents.Core.dll
+D:\MEOCloud\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\obj\Debug\ALS.Glance.DataAgents.Core.pdb
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\ALS.Glance.DataAgents.Core.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\ALS.Glance.DataAgents.Core.pdb
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\ALS.Glance.Models.Core.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\ALS.Glance.Models.Core.pdb
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\obj\Debug\ALS.Glance.DataAgents.Core.csprojResolveAssemblyReference.cache
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\obj\Debug\ALS.Glance.DataAgents.Core.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\obj\Debug\ALS.Glance.DataAgents.Core.pdb
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.Helpers.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.Razor.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.WebPages.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.Helpers.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.Razor.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.WebPages.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Escola\ISEL\PS\als-glance\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents.Core\bin\Debug\ALS.Glance.DataAgents.Core.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents.Core\bin\Debug\ALS.Glance.DataAgents.Core.pdb
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.Helpers.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.Razor.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.WebPages.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.Helpers.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.Razor.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.WebPages.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents.Core\obj\Debug\ALS.Glance.DataAgents.Core.csprojResolveAssemblyReference.cache
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents.Core\obj\Debug\ALS.Glance.DataAgents.Core.dll
+D:\Escola\ISEL\PS\als-glance - Copy\ALS.Glance.DataAgents.Core\obj\Debug\ALS.Glance.DataAgents.Core.pdb
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents.Core\bin\Debug\ALS.Glance.DataAgents.Core.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents.Core\bin\Debug\ALS.Glance.DataAgents.Core.pdb
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents.Core\bin\Debug\ALS.Glance.Models.Core.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.Helpers.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.Razor.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.WebPages.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents.Core\bin\Debug\ALS.Glance.Models.Core.pdb
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.Helpers.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.Razor.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.WebPages.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents.Core\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents.Core\obj\Debug\ALS.Glance.DataAgents.Core.csprojResolveAssemblyReference.cache
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents.Core\obj\Debug\ALS.Glance.DataAgents.Core.dll
+D:\Escola\ISEL\PS\als-glance-lite\ALS.Glance.DataAgents.Core\obj\Debug\ALS.Glance.DataAgents.Core.pdb
