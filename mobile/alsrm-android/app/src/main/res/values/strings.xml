@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">alsrm-android</string>
+    <string name="waiting">Waiting</string>
+    <string name="not_compatible">Not compatible</string>
+    <string name="exit">Exit</string>
+    <string name="not_support_bluetooth">Your device does not support bluetooth</string>
+    <string name="settings">Settings</string>
+    <string name="mac_address">mac address</string>
+    <string name="action_settings">Settings</string>
+    <string name="channels">channels</string>
+    <string name="Cancel">Cancel</string>
+</resources>

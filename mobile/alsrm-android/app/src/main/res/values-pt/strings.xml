@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">alsrm-android</string>
+    <string name="action_settings">Configurações</string>
+    <string name="exit">Sair</string>
+    <string name="not_compatible">Não compatível</string>
+    <string name="not_support_bluetooth">O dispositivo não suporta Bluetooth</string>
+    <string name="waiting">Espera</string>
+    <string name="settings">Configurações</string>
+    <string name="mac_address">endereço mac</string>
+    <string name="channels">canais</string>
+    <string name="Cancel">Cancelar</string>
+</resources>
