@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="About" xml:space="preserve">
+    <value>Sobre</value>
+  </data>
+  <data name="AppMobileText" xml:space="preserve">
+    <value>Visto ainda não existir, ainda, cura para a ELA, existe assim a necessidade de monitorizar os doentes, para que seja possível observar a evolução da doença. Dado que a evolução da doença é diferente em cada caso, torna-se importante o acompanhamento do doente e deste modo, intervir atempadamente em cada situação. Como tal a foi desenvolvivda uma
+ aplicação móvel(Android) capaz de monitorizar o doente, mas que o mesmo se sinta confortável com essa monitorização, podendo realiza-la no conforto do seu lar. A aplicação móvel foi desenvolvida com uma interface intuitiva e bastante fluída para que qualquer pessoa, independente da sua faixa etária, seja capaz de a utilizar. Em poucos passos é possível monitorizar um exame. A monitorização ocorre através de um dispositivo de captura de biosionais que comunica com a aplicação atravéz de &lt;i&gt;bluetooth&lt;/i&gt;.</value>
+  </data>
+  <data name="AppWebText" xml:space="preserve">
+    <value>Com a finalidade de fornecer mais comodidade ao doente de ELA, foi desenvolvida a aplicação web corrente, para que o mesmo tenha à sua disposição diferentes meios de consulta relacionada com os seus exames. Procurou-se sempre desenvolver uma aplicação o mais intuitiva e fluída possível. Foi também desenvolvida nesta aplicação uma área destinada ao médico, para que o mesmo possa registar novos doentes, agendar novos exames e fazer uma gestão dos mesmos de forma simples. Esta área tem como objetivo futuro a sua associação com a aplicação já desenvolvida &lt;a href="http://pmcchp.com/als-glance"&gt;ALSGlance&lt;/a&gt;, destinada ao médico. Onde na mesma é possível tirar partido de mais ferramentas, como a visualização gráfica dos exames e obter uma previsão da evolução da doença.</value>
+  </data>
+  <data name="Ela" xml:space="preserve">
+    <value>Esclerose Lateral Amiotrófica</value>
+  </data>
+  <data name="ElaText" xml:space="preserve">
+    <value>A Esclerose Lateral Amiotrófica (ELA) é uma doença neurológica degenerativa, progressiva e fatal. Os neurónios motores, que recebem estímulos eléctricos, são aqueles que enviam primariamente a mensagem ao músculo para que haja excitação e contracção, i.e. controlam os movimentos voluntários dos músculos. Com o progredir da doença os músculos morrem precocemente e como resultado o doente de ELA começa a perder as suas capacidades físicas.</value>
+  </data>
+  <data name="MobileApp" xml:space="preserve">
+    <value>Aplicação Móvel</value>
+  </data>
+  <data name="WebApi" xml:space="preserve">
+    <value>Web Api</value>
+  </data>
+  <data name="WebApiText" xml:space="preserve">
+    <value>Para que fosse possível uma interligação entre médico e doente, foi desenvolvida um interface de acesso a dados, capaz de comunicar com qualquer tipo de aplicação. Por exemplo esta interface disponibiliza ao doente os exames que necessita de realizar e após a sua realização a informação referente ao exame será disponibilizada ao médico.</value>
+  </data>
+  <data name="WebApp" xml:space="preserve">
+    <value>Aplicação Web</value>
+  </data>
+</root>

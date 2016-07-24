@@ -1,0 +1,112 @@
+﻿@using ALSRM.WebApp.Resources
+@using ALSRM.WebApp.Security
+@model IEnumerable<ALSRM.Domain.Models.Exam>
+
+@{
+    ViewBag.Title = ExamResources.Exams;
+}
+
+<div class="container">
+<div class="alert alert-success alert-dismissable" id="successmsg" style="display: none">
+    <div class="alert alert-danger alert-dismissable" id="dangermsg style="display: none">
+        <button class="close" data-dismiss="alert">&times;</button>
+    </div>
+</div>
+
+<h2>@ViewBag.Title</h2>
+@if (SessionPresister.Role.Equals("Doctor"))
+{
+    <button style="text-transform: none" type="button" class="btn btn-default pull-right" onclick="location.href = '@Url.Action("ChangeMacBitAlinoToPatient", "Account")'">
+        <span aria-hidden="true">
+            <img src="~/Content/Images/biosignal.png" title="Completed" width="24">
+        </span>
+        @AccountResources.ChangeMacBitAlinoToPatient
+    </button>
+}
+<table id="examtable" class="table table-striped table-bordered" cellspacing="0" width="100%">
+    <thead>
+    <tr>
+        <th style="text-align: center">
+            @ExamResources.Id
+        </th>
+        <th style="text-align: center">
+            @ExamResources.Name
+        </th>
+        <th style="text-align: center">
+            @ExamResources.Type
+        </th>
+        <th style="text-align: center">
+            @ExamResources.Muscle
+        </th>
+        <th style="text-align: center">
+            @ExamResources.State
+        </th>
+        <th style="text-align: center">
+            @ExamResources.InitialDate
+        </th>
+        <th style="text-align: center">
+            @ExamResources.EndDate
+        </th>
+        <th style="text-align: center"></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        item.ExamType = item.ExamType.ToUpper();
+        <tr>
+            <td style="text-align: center">
+                @Html.DisplayFor(modelItem => item.ExamId)
+            </td>
+            <td style="text-align: center">
+                @Html.DisplayFor(modelItem => item.ThisUser.Name)
+            </td>
+            <td style="text-align: center">
+                @Html.DisplayFor(modelItem => item.ExamType)
+            </td>
+            @if (item.ThisMuscle == null)
+            {
+                <td style="text-align: center" title="">
+                    -
+                </td>
+            }
+            else
+            {
+                <td style="text-align: center" title="@item.ThisMuscle.Name">
+                    @Html.DisplayFor(modelItem => item.ThisMuscle.Abbreviation)
+                </td>
+            }
+            <td style="text-align: center">
+                @switch (item.ExamState)
+                {
+                    case "completed":
+                        <img src="~/Content/Images/completed.png" title="Completed" width="24">
+                        break;
+                    case "pending":
+                        <img src="~/Content/Images/pending.png" title="Pending" width="24">
+                        break;
+                    default:
+                        <img src="~/Content/Images/cancelled.png" title="Cancelled" width="24">
+                        break;
+                }
+            </td>
+            <td style="text-align: center">
+                @Html.DisplayFor(modelItem => item.ExamInitialDate)
+            </td>
+            <td style="text-align: center">
+                @Html.DisplayFor(modelItem => item.ExamEndDate)
+            </td>
+            <td style="text-align: center">
+                <a href='@Url.Action("Details", "Exams", new {id = item.ExamId})'>
+                    <img src='@Url.Content("~/Content/Images/details.png")' title="Detail" width="24"/>
+                </a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+
+<script src="~/Scripts/jquery.dataTables.min.js"></script>
+<script src="~/Scripts/dataTables.bootstrap.min.js"></script>
+<link href="~/Content/dataTables.bootstrap.min.css"/>

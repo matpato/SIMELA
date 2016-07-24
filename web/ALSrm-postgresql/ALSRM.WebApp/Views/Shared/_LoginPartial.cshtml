@@ -1,0 +1,93 @@
+﻿@using ALSRM.WebApp.Resources
+@using ALSRM.WebApp.Security
+@if (!string.IsNullOrEmpty(SessionPresister.UserName))
+{
+    using (Html.BeginForm("LogOut", "Account", FormMethod.Post, new {id = "logoutForm", @class = "navbar-right"}))
+    {
+        @Html.AntiForgeryToken()
+        <ul class="nav navbar-nav navbar-right">
+            @if (SessionPresister.Role.Equals("Doctor"))
+            {
+                <li class="wrapper-center">
+                    <a>
+                        <img src="~/Content/Images/new-white.png" title=@HomeResources.NewExam width="24">
+                        @Html.ActionLink(HomeResources.NewExam, "Create", "Exams", null, new {id = "createExamLink"})
+                    </a>
+                </li>
+
+                <li class="wrapper-center">
+                    <a>
+                        <img src="~/Content/Images/newuser-white.png" title=@HomeResources.NewPatient width="24">
+                        @Html.ActionLink(HomeResources.NewPatient, "Register", "Account", null, new {id = "registerLink"})
+                    </a>
+                </li>
+            }
+            <li class="dropdown wrapper-center">
+                <a>
+                    <img src="~/Content/Images/user-white.png" title="Account" width="24">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                        @HomeResources.Account
+                        <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            @Html.ActionLink(HomeResources.Profile, "DashBoard", "Account", null, new {title = "Manage"})
+                        </li>
+                        <li>
+                            <a href="javascript:document.getElementById('logoutForm').submit()">@HomeResources.LogOut</a>
+                        </li>
+                        <li role="separator" class="divider"></li>
+                        <li class="dropdown-header"> @SessionPresister.UserName</li>
+                    </ul>
+                </a>
+            </li>
+            <li class="dropdown wrapper-center">
+                <div>
+                    <select name="countries" id="countries" style="width: 130px;" onchange="changeLanguage(this.value)">
+                        @if (HttpContext.Current.Request.Cookies["Language"] != null && HttpContext.Current.Request.Cookies["Language"].Value != null && HttpContext.Current.Request.Cookies["Language"].Value.Equals("en"))
+                        {
+                            <option value='en' selected="selected" data-image="/Libraries/ms-Dropdown/images/msdropdown/icons/blank.gif" data-imagecss="flag gb" data-title="Great Britain (UK)">English</option>
+                            <option value='pt' data-image="/Libraries/ms-Dropdown/images/msdropdown/icons/blank.gif" data-imagecss="flag pt" data-title="Portugal">Português</option>
+                        }
+                        else
+                        {
+                            <option value='pt' selected="selected" data-image="/Libraries/ms-Dropdown/images/msdropdown/icons/blank.gif" data-imagecss="flag pt" data-title="Portugal">Português</option>
+                            <option value='en' data-image="/Libraries/ms-Dropdown/images/msdropdown/icons/blank.gif" data-imagecss="flag gb" data-title="Great Britain (UK)">English</option>
+                        }
+                    </select>
+                </div>
+            </li>
+        </ul>
+    }
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li class="wrapper-center">
+            <a>
+                <img src="~/Content/Images/login-white.png" title=@HomeResources.LogIn width="24">
+                @Html.ActionLink(HomeResources.LogIn, "Login", "Account", null, new {id = "loginLink"})
+            </a>
+        </li>
+        <li class="dropdown wrapper-center">
+            <div>
+                <select name="countries" id="countries" style="width: 130px;" onchange="changeLanguage(this.value)">
+                    @if (HttpContext.Current.Request.Cookies["Language"] != null && HttpContext.Current.Request.Cookies["Language"].Value != null && HttpContext.Current.Request.Cookies["Language"].Value.Equals("en"))
+                    {
+                        <option value='en' selected="selected" data-image="/Libraries/ms-Dropdown/images/msdropdown/icons/blank.gif" data-imagecss="flag gb" data-title="Great Britain (UK)">English</option>
+                        <option value='pt' data-image="/Libraries/ms-Dropdown/images/msdropdown/icons/blank.gif" data-imagecss="flag pt" data-title="Portugal">Português</option>
+                    }
+                    else
+                    {
+                        <option value='pt' selected="selected" data-image="/Libraries/ms-Dropdown/images/msdropdown/icons/blank.gif" data-imagecss="flag pt" data-title="Portugal">Português</option>
+                        <option value='en' data-image="/Libraries/ms-Dropdown/images/msdropdown/icons/blank.gif" data-imagecss="flag gb" data-title="Great Britain (UK)">English</option>
+                    }
+                </select>
+            </div>
+        </li>
+    </ul>
+}
+
+<script src="~/Libraries/ms-Dropdown/js/msdropdown/jquery.dd.min.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="~/Libraries/ms-Dropdown/css/msdropdown/dd.css"/>
+<link rel="stylesheet" type="text/css" href="~/Libraries/ms-Dropdown/css/msdropdown/flags.css"/>

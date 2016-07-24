@@ -1,0 +1,12 @@
+Install-Package EntityFramework (Api + Infraestructure + Domain)
+Install-Package Unity (Startup + Api2)
+Install-Package Microsoft.AspNet.WebApi.Owin (Api2)
+Install-Package Microsoft.Owin.Host.SystemWeb (Api2 - Permite rodar app num browser)
+Install-Package Microsoft.Owin.Security.OAuth (Api2)
+Install-Package Microsoft.Owin.Cors (Api2 - Para publicação de api num server com outros servidores)
+Install-Package Patches.System.Web.OData -Pre
+
+Adicionar ao projeto mvc 
+Install-Package Unity.Mvc4 ( Cria um arquivo Bootstraper.cs, ver vido 5 andrebaltieri)
+
+

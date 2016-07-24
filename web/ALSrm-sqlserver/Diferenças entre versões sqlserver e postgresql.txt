@@ -1,0 +1,15 @@
+As duas versões estão disponíveis e a funcionar corretamente, a diferença é 
+que a versão sqlServer funciona com acesso a dados a uma API que se encontra online
+bem como a sua base de dados.
+Já a versão postgresql funciona com acesso a api local pois a base de dados tem que se
+encontrar em localhost. Não foi possível colocar a DB online devido a problemas com
+npgsql6 e EntityFramework 6.
+
+Nas duas verões do projeto as diferenças encontram-se nos ficheiros:
+
+> ALSRM.Api2/Web.config
+> ALSRM.Infrastructure/Data/AppDataContext.cs (Nome da tabela "User" em postgresql e "Users" em sqlServer
+> ALSRM.Infrastructure/Data/UserRepository.cs (Metodos InsertPatientAsync e InsertDoctorAsync
+
+
+Todos os restantes ficheiros são totalmente compativeis e podem ser unificados numa unica solução. 

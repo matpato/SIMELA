@@ -1,0 +1,78 @@
+﻿@using ALSRM.WebApp.Resources
+@using ALSRM.WebApp.Security
+@model ALSRM.WebApp.Models.UserDashboardModel
+
+@{
+    ViewBag.Title = AccountResources.Dashboard;
+}
+
+<h2>@ViewBag.Title</h2>
+<div style="overflow: hidden; width: 100%;">
+    <div class="col-md-8" style="float: left">
+        <div>
+            <h4>@AccountResources.AccountDetails</h4>
+            <hr/>
+            <dl class="dl-horizontal">
+                <dt>@AccountResources.UserId:</dt>
+                <dd>
+                    @Model.Id
+                </dd>
+                <dt> @AccountResources.UserName:</dt>
+                <dd>
+                    @Model.Name
+                </dd>
+                @if (!string.IsNullOrEmpty(Model.PatientId))
+                {
+                    <dt>
+                        @AccountResources.PatientId:
+                    </dt>
+                    <dd>
+                        @Model.PatientId
+                    </dd>
+                }
+                @if (SessionPresister.Role.Equals("Patient"))
+                {
+                    <dt>
+                        @AccountResources.MacBitAlino:
+                    </dt>
+                    <dd>
+                        @Model.Mac_Bitalino
+                    </dd>
+                }
+            </dl>
+        </div>
+        <div>
+            <button style="text-transform: none;" type="button" class="btn btn-default" onclick="location.href = '@Url.Action("ChangePassword", "Account")'">
+                <span aria-hidden="true">
+                        <img src="~/Content/Images/lock.png" title="Completed" width="24">
+                    </span>
+                @AccountResources.ChangePassword
+            </button>
+            <button style="text-transform: none;" type="button" class="btn btn-default" onclick="location.href =
+    '@Url.Action("ChangeSecurityAnswer", "Account")'">
+                <span aria-hidden="true">
+                        <img src="~/Content/Images/question.png" title="Completed" width="24">
+                    </span>
+                @AccountResources.ChangeSecurityQuestion
+            </button>
+            @if (SessionPresister.Role.Equals("Patient"))
+            {
+                <button style="text-transform: none;" type="button" class="btn btn-default" onclick="location.href = '@Url.Action("ChangeMacBitalino", "Account")'">
+                    <span aria-hidden="true">
+                        <img src="~/Content/Images/biosignal.png" title="Completed" width="24">
+                    </span>
+                    @AccountResources.ChangeBitAlinoMac
+                </button>
+            }
+        </div>
+    </div>
+    @if (SessionPresister.Role.Equals("Patient"))
+    {
+        <div class="col-md-4" style="margin-left: auto; overflow: hidden; text-align: center;">
+            <span style="display: inline-block">
+                <img id="qrcodeimg" src="@ViewBag.QrCode" width="200" height="200" alt="QrCode" class="img-rounded"/>
+                <p style="font-style: italic;">@AccountResources.QrcodeMessage</p>
+            </span>
+        </div>
+    }
+</div>

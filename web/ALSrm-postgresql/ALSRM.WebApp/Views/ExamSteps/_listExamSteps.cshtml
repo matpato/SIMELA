@@ -1,0 +1,101 @@
+﻿@using ALSRM.WebApp.Resources
+@using ALSRM.WebApp.Security
+@model ALSRM.Domain.Models.Exam
+
+@{
+    ViewBag.Title = "List Exam Steps";
+}
+
+
+<table class="table">
+    <tr>
+        <th style="text-align: center">
+            @ExamResources.Step
+        </th>
+        <th style="text-align: center">
+            @ExamResources.Description
+        </th>
+        <th style="text-align: center">
+            @ExamResources.State
+        </th>
+        <th style="text-align: center">
+            @ExamResources.Time
+        </th>
+        <th style="text-align: center">
+            @ExamResources.InitialDate
+        </th>
+        <th style="text-align: center">
+            @ExamResources.EndDate
+        </th>
+        <th style="text-align: center"></th>
+    </tr>
+
+    @foreach (var item in Model.ExamSteps)
+    {
+        Model.ExamType = Model.ExamType.ToUpper();
+        <tr>
+            <td style="text-align: center">
+                @Html.DisplayFor(modelItem => item.StepNum)
+            </td>
+
+            <td style="text-align: center">
+                @switch (item.Description)
+                {
+                    case "morning":
+                        <img src="~/Content/Images/morning.png" title="Morning" width="24">
+                        break;
+                    case "afternoon":
+                        <img src="~/content/Images/afternoon.png" title="Afternoon" width="24">
+                        break;
+                    default:
+                        <img src="~/Content/Images/night.png" title="Night" width="24">
+                        break;
+                }
+            </td>
+
+            <td style="text-align: center">
+                @switch (item.State)
+                {
+                    case "completed":
+                        <img src="~/Content/Images/completed.png" title="Completed" width="24">
+                        break;
+                    case "pending":
+                        <img src="~/Content/Images/pending.png" title="Pending" width="24">
+                        break;
+                    default:
+                        <img src="~/Content/Images/cancelled.png" title="Cancelled" width="24">
+                        break;
+                }
+            </td>
+
+            <td style="text-align: center">
+                @Html.DisplayFor(modelItem => item.Time)
+            </td>
+
+            <td style="text-align: center">
+                @Html.DisplayFor(modelItem => item.InitialDate)
+            </td>
+
+            <td style="text-align: center">
+                @Html.DisplayFor(modelItem => item.EndDate)
+            </td>
+            @if (SessionPresister.Role.Equals("Doctor") && item.State.Equals("pending") && DateTimeOffset.Compare(Model.ExamEndDate, DateTimeOffset.Now) >= 0)
+            {
+                <td style="text-align: center">
+                    <a href="" onclick="cancelExamStep(@item.ExamId, @item.StepNum);">
+                        <img src='@Url.Content("~/Content/Images/cancel.png")' title=@ExamResources.Cancel width="12"/>
+                    </a>
+                </td>
+            }
+            else
+            {
+                <td style="text-align: center">
+                    <a>
+                        <img width="12"/>
+                    </a>
+                </td>
+            }
+        </tr>
+    }
+
+</table>

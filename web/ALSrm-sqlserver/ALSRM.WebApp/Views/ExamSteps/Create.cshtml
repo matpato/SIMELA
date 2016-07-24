@@ -1,0 +1,58 @@
+﻿@using ALSRM.WebApp.Resources
+@model ALSRM.WebApp.Models.ExamStepModels
+
+@{
+    ViewBag.Title = CreateExamStepResources.Create;
+}
+
+<h2>Create</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>ExamStep</h4>
+        <hr/>
+        @Html.ValidationSummary(true, "", new {@class = "text-danger"})
+
+        <div class="form-group">
+            <label class="control-label col-md-2">@ExamResources.Description</label>
+            <div class="col-md-10">
+                @Html.DropDownList("Description", null, new {@class = "form-control"})
+                @Html.ValidationMessageFor(model => model.Description, "", new {@class = "text-danger"})
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">@ExamResources.State</label>
+            <div class="col-md-10">
+                @Html.DropDownList("State", null, new {@class = "form-control"})
+                @Html.ValidationMessageFor(model => model.State, "", new {@class = "text-danger"})
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">@ExamResources.Time</label>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Time, new {htmlAttributes = new {@class = "form-control", type = "number", min = "0"}})
+                @Html.ValidationMessageFor(model => model.Time, "", new {@class = "text-danger"})
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value=@CreateExamStepResources.Create class="btn btn-default"/>
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink(CreateExamStepResources.Back, null, null, null, new {href = Request.UrlReferrer})
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

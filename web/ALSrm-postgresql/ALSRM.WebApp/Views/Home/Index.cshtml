@@ -1,0 +1,296 @@
+﻿@using ALSRM.WebApp.Resources
+@model ALSRM.WebApp.Models.HomeProfileModel
+@{
+    ViewBag.Title = HomeResources.Profile;
+}
+<h2>@ViewBag.Title</h2>
+<div style="overflow: hidden; width: 100%;">
+<div class="col-md-6">
+    <h4>@HomeResources.UpcomingExams</h4>
+    <table id="examtable1" class="table table-striped table-condensed" cellspacing="0" width="100%" style="border-collapse: collapse;">
+        <thead>
+        <tr>
+            <th style="text-align: center">
+                @ExamResources.Id
+            </th>
+            <th style="text-align: center">
+                @ExamResources.Type
+            </th>
+            <th style="text-align: center">
+                @ExamResources.Muscle
+            </th>
+            <th style="text-align: center">
+                @ExamResources.State
+            </th>
+            <th style="text-align: center">
+                @ExamResources.InitialDate
+            </th>
+            <th style="text-align: center">
+                @ExamResources.EndDate
+            </th>
+            <th style="text-align: center"></th>
+            <th style="text-align: center"></th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model.Exams1)
+        {
+            item.ExamType = item.ExamType.ToUpper();
+            <tr data-toggle="collapse" data-target=@($"#collapse1t{item.ExamId}")>
+                <td style="text-align: center">
+                    @Html.DisplayFor(modelItem => item.ExamId)
+                </td>
+                <td style="text-align: center">
+                    @Html.DisplayFor(modelItem => item.ExamType)
+                </td>
+                @if (item.ThisMuscle == null)
+                {
+                    <td style="text-align: center" title="">
+                        -
+                    </td>
+                }
+                else
+                {
+                    <td style="text-align: center" title="@item.ThisMuscle.Name">
+                        @Html.DisplayFor(modelItem => item.ThisMuscle.Abbreviation)
+                    </td>
+                }
+                <td style="text-align: center">
+                    @switch (item.ExamState)
+                    {
+                        case "completed":
+                            <img src="~/Content/Images/completed.png" title=@HomeResources.Completed width="24">
+                            break;
+                        case "pending":
+                            <img src="~/Content/Images/pending.png" title=@HomeResources.Pending width="24">
+                            break;
+                        default:
+                            <img src="~/Content/Images/cancelled.png" title=@HomeResources.Cancelled width="24">
+                            break;
+                    }
+                </td>
+                <td style="text-align: center">
+                    @Html.DisplayFor(modelItem => item.ExamInitialDate)
+                </td>
+                <td style="text-align: center">
+                    @Html.DisplayFor(modelItem => item.ExamEndDate)
+                </td>
+                <td style="text-align: center">
+                    <a href='@Url.Action("Details", "Exams", new {id = item.ExamId})'>
+                        <img src='@Url.Content("~/Content/Images/details.png")' title=@HomeResources.Detail width="24"/>
+                    </a>
+                </td>
+                <td style="text-align: center">
+                    <a>
+                        <img src='@Url.Content("~/Content/Images/plus.png")' title=@HomeResources.Expand width="12"/>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="8" class="hiddenRow">
+                    <ul id=@($"collapse1t{item.ExamId}") class="collapse list-group">
+                        @foreach (var examStem in item.ExamSteps)
+                        {
+                            <li class="list-group-item" style="border: 1px solid gainsboro;">
+                                <div class="col-xs-12" style="position: absolute; top: 0;">
+                                    <div class="col-xs-3" style="overflow: hidden; white-space: nowrap">
+                                        <label>
+                                            <b>Num:</b>
+                                        </label>
+                                        @examStem.StepNum
+                                    </div>
+                                    <div class="col-xs-3" style="overflow: hidden; white-space: nowrap">
+                                        <label>
+                                            <b>@ExamResources.Description:</b>
+                                        </label>
+                                        @switch (examStem.Description)
+                                        {
+                                            case "morning":
+                                                <img src="~/Content/Images/morning.png" title=@HomeResources.Morning width="24">
+                                                break;
+                                            case "afternoon":
+                                                <img src="~/content/Images/afternoon.png" title=@HomeResources.Afternoon width="24">
+                                                break;
+                                            default:
+                                                <img src="~/Content/Images/night.png" title=@HomeResources.Night width="24">
+                                                break;
+                                        }
+                                    </div>
+                                    <div class="col-xs-3" style="overflow: hidden; white-space: nowrap">
+                                        <label>
+                                            <b>@ExamResources.Time:</b>
+                                        </label>
+                                        @examStem.Time
+                                    </div>
+                                    <div class="col-xs-3" style="overflow: hidden; white-space: nowrap">
+                                        <label>
+                                            <b>@ExamResources.State:</b>
+                                        </label>
+                                        @switch (examStem.State)
+                                        {
+                                            case "completed":
+                                                <img src="~/Content/Images/completed.png" title=@HomeResources.Completed width="24">
+                                                break;
+                                            case "pending":
+                                                <img src="~/Content/Images/pending.png" title=""@HomeResources.Pending width="24">
+                                                break;
+                                            default:
+                                                <img src="~/Content/Images/cancelled.png" title=@HomeResources.Cancelled width="24">
+                                                break;
+                                        }
+                                    </div>
+                                </div>
+                            </li>
+                        }
+                    </ul>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>
+<div class="col-md-6">
+    <h4>@HomeResources.PreviousExams</h4>
+    <table id="examtable2" class="table table-striped table-condensed" cellspacing="0" width="100%" style="border-collapse: collapse;">
+        <thead>
+        <tr style="text-align: center">
+            <th style="text-align: center">
+                @ExamResources.Id
+            </th>
+            <th style="text-align: center">
+                @ExamResources.Type
+            </th>
+            <th style="text-align: center">
+                @ExamResources.Muscle
+            </th>
+            <th style="text-align: center">
+                @ExamResources.State
+            </th>
+            <th style="text-align: center">
+                @ExamResources.InitialDate
+            </th>
+            <th style="text-align: center">
+                @ExamResources.EndDate
+            </th>
+            <th style="text-align: center"></th>
+            <th style="text-align: center"></th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model.Exams2)
+        {
+            item.ExamType = item.ExamType.ToUpper();
+            <tr data-toggle="collapse" data-target=@($"#collapse2t{item.ExamId}")>
+                <td style="text-align: center">
+                    @Html.DisplayFor(modelItem => item.ExamId)
+                </td>
+                <td style="text-align: center">
+                    @Html.DisplayFor(modelItem => item.ExamType)
+                </td>
+                @if (item.ThisMuscle == null)
+                {
+                    <td style="text-align: center" title="">
+                        -
+                    </td>
+                }
+                else
+                {
+                    <td style="text-align: center" title="@item.ThisMuscle.Name">
+                        @Html.DisplayFor(modelItem => item.ThisMuscle.Abbreviation)
+                    </td>
+                }
+                <td style="text-align: center">
+                    @switch (item.ExamState)
+                    {
+                        case "completed":
+                            <img src="~/Content/Images/completed.png" title=@HomeResources.Completed width="24">
+                            break;
+                        case "pending":
+                            <img src="~/Content/Images/pending.png" title=@HomeResources.Pending width="24">
+                            break;
+                        default:
+                            <img src="~/Content/Images/cancelled.png" title=@HomeResources.Cancelled width="24">
+                            break;
+                    }
+                </td>
+                <td style="text-align: center">
+                    @Html.DisplayFor(modelItem => item.ExamInitialDate)
+                </td>
+                <td style="text-align: center">
+                    @Html.DisplayFor(modelItem => item.ExamEndDate)
+                </td>
+                <td style="text-align: center">
+                    <a href='@Url.Action("Details", "Exams", new {id = item.ExamId})'>
+                        <img src='@Url.Content("~/Content/Images/details.png")' title=@HomeResources.Detail width="24"/>
+                    </a>
+                </td>
+                <td style="text-align: center">
+                    <a>
+                        <img src='@Url.Content("~/Content/Images/plus.png")' title=@HomeResources.Expand width="12"/>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="8" class="hiddenRow">
+                    <ul id=@($"collapse2t{item.ExamId}") class="collapse list-group">
+                        @foreach (var examStem in item.ExamSteps)
+                        {
+                            <li class="list-group-item" style="border: 1px solid gainsboro;">
+                                <div class="col-xs-12" style="position: absolute; top: 0;">
+                                    <div class="col-xs-3" style="overflow: hidden; white-space: nowrap;">
+                                        <label>
+                                            <b>Num:</b>
+                                        </label>
+                                        @examStem.StepNum
+                                    </div>
+                                    <div class="col-xs-3" style="overflow: hidden; white-space: nowrap;">
+                                        <label>
+                                            <b>@ExamResources.Description:</b>
+                                        </label>
+                                        @switch (examStem.Description)
+                                        {
+                                            case "morning":
+                                                <img src="~/Content/Images/morning.png" title=@HomeResources.Morning width="24">
+                                                break;
+                                            case "afternoon":
+                                                <img src="~/content/Images/afternoon.png" title=@HomeResources.Afternoon width="24">
+                                                break;
+                                            default:
+                                                <img src="~/Content/Images/night.png" title=@HomeResources.Night width="24">
+                                                break;
+                                        }
+                                    </div>
+                                    <div class="col-xs-3" style="overflow: hidden; white-space: nowrap;">
+                                        <label>
+                                            <b>@ExamResources.Time:</b>
+                                        </label>
+                                        @examStem.Time
+                                    </div>
+                                    <div class="col-xs-3" style="overflow: hidden; white-space: nowrap; width: fit-content">
+                                        <label>
+                                            <b>@ExamResources.State:</b>
+                                        </label>
+                                        @switch (examStem.State)
+                                        {
+                                            case "completed":
+                                                <img src="~/Content/Images/completed.png" title=@HomeResources.Completed width="24">
+                                                break;
+                                            case "pending":
+                                                <img src="~/Content/Images/pending.png" title=@HomeResources.Pending width="24">
+                                                break;
+                                            default:
+                                                <img src="~/Content/Images/cancelled.png" title=@HomeResources.Cancelled width="24">
+                                                break;
+                                        }
+                                    </div>
+                                </div>
+                            </li>
+                        }
+                    </ul>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>
+</div>

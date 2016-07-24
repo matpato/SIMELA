@@ -1,0 +1,96 @@
+﻿@model IEnumerable<ALSRM.Domain.Models.ExamStep>
+
+@{
+    ViewBag.Title = "ExamSteps";
+}
+
+<h2>ExamSteps</h2>
+
+<p>
+    <a href='@Url.Action("CreateExamStep", "Exams")'>
+        <img src='@Url.Content("~/Content/Images/new.png")' title="Detail" width="24"/>
+        Create New Exam Step
+    </a>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ExamId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ThisExam.ExamType)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.State)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Time)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.InitialDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EndDate)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        item.ThisExam.ExamType = item.ThisExam.ExamType.ToUpper();
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExamId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ThisExam.ExamType)
+            </td>
+            <td>
+                @switch (item.Description)
+                {
+                    case "morning":
+                        <img src="~/Content/Images/morning.png" title="Morning" width="24">
+                        break;
+                    case "afternoon":
+                        <img src="~/content/Images/afternoon.png" title="Afternoon" width="24">
+                        break;
+                    default:
+                        <img src="~/Content/Images/night.png" title="Night" width="24">
+                        break;
+                }
+            </td>
+            <td>
+                @switch (item.State)
+                {
+                    case "completed":
+                        <img src="~/Content/Images/completed.png" title="Completed" width="24">
+                        break;
+                    case "pending":
+                        <img src="~/Content/Images/pending.png" title="Pending" width="24">
+                        break;
+                    default:
+                        <img src="~/Content/Images/cancelled.png" title="Cancelled" width="24">
+                        break;
+                }
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Time)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InitialDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndDate)
+            </td>
+            <td>
+                <a href='@Url.Action("Details", "Exams")'>
+                    <img src='@Url.Content("~/Content/Images/details.png")' title="Detail" width="24"/>
+                </a>
+            </td>
+        </tr>
+    }
+
+</table>

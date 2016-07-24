@@ -1,0 +1,147 @@
+﻿@using ALSRM.WebApp.Resources
+@using ALSRM.WebApp.Security
+@model ALSRM.Domain.Models.Exam
+
+@{
+    ViewBag.Title = ExamDetailResources.Details;
+}
+<div class="container">
+    <div class="alert alert-success alert-dismissable" id="successmsg" style="display: none">
+        <button class="close" data-dismiss="alert">&times;</button>
+    </div>
+</div>
+<h2>Details</h2>
+
+<h4>Exam</h4>
+@if (SessionPresister.Role.Equals("Doctor"))
+{
+    <div class="row">
+        <div class="container">
+            <div class="col-md-4">
+            </div>
+            <div class="col-md-4">
+            </div>
+            <div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-6">
+                        @if (DateTimeOffset.Compare(Model.ExamEndDate, DateTimeOffset.Now) < 0)
+                        {
+                            <button style="text-transform: none" type="button" disabled="disabled" class="btn btn-default pull-right" onclick="location.href = '@Url.Action("CreateExamStep", "Exams")'">
+                                <span aria-hidden="true">
+                                    <img src='@Url.Content("~/Content/Images/new.png")' title="Detail" width="24" />
+                                </span>
+                                @ExamDetailResources.CreateNewExamStep
+                            </button>
+                        }
+                        else
+                        {
+                            <button style="text-transform: none;" type="button" class="btn btn-default pull-right" onclick="location.href = '@Url.Action("CreateExamStep", "Exams")'">
+                                <span aria-hidden="true">
+                                    <img src='@Url.Content("~/Content/Images/new.png")' title="Detail" width="24" />
+                                </span>
+                                @ExamDetailResources.CreateNewExamStep
+                            </button>
+                        }
+                    </div>
+                    <div class="col-md-6">
+                        @if (Model.ExamState.Equals("Cancelled") || Model.ExamState.Equals("Cancelado") || DateTimeOffset.Compare(Model.ExamEndDate, DateTimeOffset.Now) < 0)
+                        {
+                            <button style="text-transform: none;" type="button" disabled="disabled" class="btn btn-default pull-right" onclick="
+cancelExam(@Model.ExamId)">
+                                <span aria-hidden="true">
+                                    <img src='@Url.Content("~/Content/Images/cancel.png")' title="Detail" width="16" />
+                                </span>
+                                @ExamDetailResources.CancelExam
+                            </button>
+                        }
+                        else
+                        {
+                            <button style="text-transform: none;" type="button" class="btn btn-default pull-right" onclick="cancelExam(@Model.ExamId)">
+                                <span aria-hidden="true">
+                                    <img src='@Url.Content("~/Content/Images/cancel.png")' title="Detail" width="16" />
+                                </span>
+                                @ExamDetailResources.CancelExam
+                            </button>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+<hr/>
+<dl class="dl-horizontal">
+
+    <dt>
+        @ExamResources.Id
+    </dt>
+
+    <dd>
+        @Html.DisplayFor(model => model.ExamId)
+    </dd>
+
+    <dt>
+        @ExamResources.Name
+    </dt>
+
+    <dd>
+        @Html.DisplayFor(model => model.ThisUser.Name)
+    </dd>
+
+    <dt>
+        @ExamResources.UserId
+    </dt>
+
+    <dd>
+        @Html.DisplayFor(model => model.ThisUser.Id)
+    </dd>
+
+    <dt>
+        @ExamResources.Type
+    </dt>
+
+    <dd>
+        @Html.DisplayFor(model => model.ExamType)
+    </dd>
+
+    <dt>
+        @ExamResources.Muscle
+    </dt>
+    @if(Model.ThisMuscle == null){
+        <dd title="">
+           -
+        </dd>
+    }
+    else{
+        <dd title="@Model.ThisMuscle.Name">
+            @Html.DisplayFor(model => model.ThisMuscle.Abbreviation)
+        </dd>
+    }
+
+    <dt>
+        @ExamResources.State
+    </dt>
+
+    <dd>
+        @Html.DisplayFor(model => model.ExamState)
+    </dd>
+
+    <dt>
+        @ExamResources.InitialDate
+    </dt>
+
+    <dd>
+        @Html.DisplayFor(model => model.ExamInitialDate)
+    </dd>
+
+    <dt>
+        @ExamResources.EndDate
+    </dt>
+
+    <dd>
+        @Html.DisplayFor(model => model.ExamEndDate)
+    </dd>
+</dl>
+@Html.Partial("~/Views/ExamSteps/_listExamSteps.cshtml", Model)
+
+<script src="~/Scripts/sharedfuncitons.js"></script>

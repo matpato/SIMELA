@@ -1,0 +1,36 @@
+﻿@using ALSRM.WebApp.Resources
+@model ALSRM.WebApp.Models.ChangeMacBitalinoModel
+@{
+    ViewBag.Title = ChangeMacBitAlinoResources.ChangeMacBitAlino;
+}
+
+<div class="row">
+    <div class="col-md-6 col-md-offset-3 jumbotron">
+        <h2 align="center" style="vertical-align: text-top">
+            @ViewBag.Title
+        </h2>
+        <hr style="border: none"/>
+        <section id="loginForm">
+            @using (Html.BeginForm("ChangeMacBitalino", "Account", new {ViewBag.ReturnUrl}, FormMethod.Post, new {@class = "form-horizontal", role = "form"}))
+            {
+                @Html.AntiForgeryToken()
+                @Html.ValidationSummary(true, "", new {@class = "text-danger"})
+                <h6 style="color: Red; font-weight: bold;">@ViewBag.Error</h6>
+                <div align="center" class="input-group">
+                    <span align="center" class="input-group-addon"><img src="~/Content/Images/biosignal.png" title="Mac BitAlino" width="24"></span>
+                    <div align="center">
+                        @Html.TextBoxFor(m => m.Mac_Bitalino, new {@class = "form-control", placeholder = AccountResources.MacBitAlino})
+                        @Html.ValidationMessageFor(m => m.Mac_Bitalino, "", new {@class = "text-danger"})
+                    </div>
+                </div>
+                <hr style="border: none"/>
+                <div align="center">
+                    <input type="submit" value=@ChangeMacBitAlinoResources.Update class="btn btn-primary"/>
+                </div>
+            }
+        </section>
+        <div>
+            @Html.ActionLink(CreatePatientResources.Back, null, null, null, new {href = Request.UrlReferrer})
+        </div>
+    </div>
+</div>
