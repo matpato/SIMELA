@@ -1,4 +1,5 @@
 ﻿@using ALSRM.WebApp.Resources
+@using ALSRM.WebApp.Security
 <!DOCTYPE html>
 <html>
 <head>
@@ -41,12 +42,14 @@
                         @Html.ActionLink(HomeResources.Exams, "Index", "Exams")
                     </a>
                 </li>
-                <li class="wrapper-center">
-                    <a>
-                        <img src="~/Content/Images/users.png" title="Exams" width="24">
-                        @Html.ActionLink(UserResources.Users,"Index", "Users")
-                    </a>
-                </li>
+             @if (SessionPresister.Role != null && SessionPresister.Role.Equals("Doctor")) { 
+                    <li class="wrapper-center">
+                        <a>
+                            <img src="~/Content/Images/users.png" title="Users" width="24">
+                            @Html.ActionLink(UserResources.Users, "Index", "Users")
+                        </a>
+                    </li>
+                }
             </ul>
             @Html.Partial("_LoginPartial")
         </div>

@@ -38,8 +38,8 @@ $(document)
             $("#examtable")
                 .DataTable({
                     "language": {
-                        "url": "/Content/dataTable.Portuguese.lang.json"
-                        //"url": "https://cdn.datatables.net/plug-ins/1.10.12/i18n/Portuguese.json"
+                        //"url": "/Content/dataTable.Portuguese.lang.json"
+                        "url": "https://cdn.datatables.net/plug-ins/1.10.12/i18n/Portuguese.json"
                     }
                 });
         }
