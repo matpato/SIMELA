@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:tag="phone_screen"
+    android:paddingLeft="59dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textStyle="bold"
+        android:text="Time"
+        android:id="@+id/Time"
+        android:gravity="center"
+        android:layout_alignBottom="@+id/Clock"
+        android:layout_toRightOf="@+id/Clock"
+        android:layout_toEndOf="@+id/Clock"
+        android:paddingLeft="5dp"
+        android:paddingBottom="15dp"
+        android:textSize="15dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ImageDescription"
+        android:src="@drawable/afternoon"
+        android:adjustViewBounds="true"
+        android:cropToPadding="false"
+        android:background="@android:color/transparent"
+        android:scaleType="fitXY"
+        android:paddingLeft="20dp"
+        android:layout_alignTop="@+id/ImageState"
+        android:layout_toRightOf="@+id/ImageState"
+        android:layout_toEndOf="@+id/ImageState" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Clock"
+        android:src="@drawable/time"
+        android:adjustViewBounds="true"
+        android:cropToPadding="false"
+        android:background="@android:color/transparent"
+        android:scaleType="fitXY"
+        android:paddingLeft="20dp"
+        android:layout_alignTop="@+id/ImageDescription"
+        android:layout_toRightOf="@+id/ImageDescription"
+        android:layout_toEndOf="@+id/ImageDescription" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ImageState"
+        android:src="@drawable/complete"
+        android:adjustViewBounds="true"
+        android:cropToPadding="false"
+        android:background="@android:color/transparent"
+        android:scaleType="fitXY"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

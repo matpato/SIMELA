@@ -1,1 +1,1 @@
-include ':app', ':retrofit-2.0.1', ':mpandroidchartlibrary-2-2-4', ':retrofit-2.0.0-beta2', ':retrofit-2.0.2'
+include ':app'

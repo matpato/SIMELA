@@ -1,48 +1,77 @@
-﻿@model ALSRM.WebApp.Models.PostRegisterViewModel
+﻿@using ALSRM.WebApp.Resources
+@model ALSRM.WebApp.Models.PostRegisterViewModel
 @{
-    ViewBag.Title = "SuccessfulyRegister";
+    ViewBag.Title = @ALSRM.WebApp.Resources.SuccessfulyRegisterResources.SuccessfulyRegister;
 }
 
-<h2>Successful Registration</h2>
+<h2>@ViewBag.Title</h2>
 
 <div class="container-fluid">
     <table class="table ">
         <tr>
-            <td>@Html.LabelFor(m => m.Id, new {style = "font-weight:bold"}) </td>
+            <td>
+                <label style="font-weight: bold">
+                    @AccountResources.UserId
+                </label>
+            </td>
             <td>@Model.Id</td>
         </tr>
         <tr>
-            <td>@Html.LabelFor(m => m.Name, new {style = "font-weight:bold"})</td>
+            <td>
+                <label style="font-weight: bold">
+                    @AccountResources.UserName
+                </label>
+            </td>
             <td>@Model.Name</td>
         </tr>
         <tr>
-            <td>@Html.LabelFor(m => m.Password, new {style = "font-weight:bold"})</td>
+            <td>
+                <label style="font-weight: bold">
+                    @AccountResources.Password
+                </label>
+            </td>
             <td>@Model.Password</td>
         </tr>
         <tr>
-            <td>@Html.LabelFor(m => m.SecurityQuestion, new {style = "font-weight:bold"})</td>
+            <td>
+                <label style="font-weight: bold">
+                    @AccountResources.SecurityQuestion
+                </label>
+            </td>
             <td>@Model.SecurityQuestion</td>
         </tr>
         <tr>
-            <td>@Html.LabelFor(m => m.SecurityAnswer, new {style = "font-weight:bold"})</td>
+            <td>
+                <label style="font-weight: bold">
+                    @AccountResources.SecurityAnswer
+                </label>
+            </td>
             <td>@Model.SecurityAnswer</td>
         </tr>
         <tr>
-            <td>@Html.LabelFor(m => m.PatientId, new {style = "font-weight:bold"})</td>
+            <td>
+                <label style="font-weight: bold">
+                    @AccountResources.PatientId
+                </label>
+            </td>
             <td>@Model.PatientId</td>
         </tr>
         <tr>
-            <td>@Html.LabelFor(m => m.Mac_Bitalino, new {style = "font-weight:bold"})</td>
+            <td>
+                <label style="font-weight: bold">
+                    @AccountResources.MacBitAlino
+                </label>
+            </td>
             <td>@Model.Mac_Bitalino</td>
         </tr>
     </table>
     @if (!string.IsNullOrEmpty(Model.Mac_Bitalino))
     {
         <div>
-            <img src="@ViewBag.QrCode" width="170" height="170" alt="QrCode" class="img-rounded"/>
-            <p style="font-style: italic;">Use this QrCode to connect your mobile application with our servers.</p>
+            <img src="@ViewBag.QrCode" width="170" height="170" alt="QrCode" class="img-rounded" />
+            <p style="font-style: italic;">@SuccessfulyRegisterResources.Qrcodemsg</p>
         </div>
     }
-    <p style="color: red; font-style: italic;">Change your password and security question as soon as possible!</p>
-    <button onclick="window.print();">Print</button>
+    <p style="color: red; font-style: italic;">@SuccessfulyRegisterResources.ChangeMsg</p>
+    <button onclick="window.print();">@SuccessfulyRegisterResources.Print</button>
 </div>

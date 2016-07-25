@@ -1,153 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
-    >
+    android:fitsSystemWindows="true"
+    tools:openDrawer="start">
 
-    <RelativeLayout
+    <include
+        layout="@layout/app_bar_main"
         android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <android.support.design.widget.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        >
+        android:layout_gravity="start"
+        android:fitsSystemWindows="true"
+        app:headerLayout="@layout/nav_header_main"
+        app:menu="@menu/activity_main_drawer" />
 
-
-        <GridLayout
-            android:layout_width="wrap_content"
-            android:layout_height="110dp"
-            android:columnCount="10"
-            android:rowCount="5"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginTop="39dp"
-            android:id="@+id/gridLayout3"
-            android:layout_alignParentTop="true"
-            android:layout_centerHorizontal="true">
-
-            <Button
-                android:layout_width="100dp"
-                android:layout_height="100dp"
-                android:text="ECG"
-                android:id="@+id/ECGBtn"
-                android:background="@drawable/round_button"
-                android:layout_marginBottom="85dp"
-                android:layout_above="@+id/button4"
-                android:layout_alignLeft="@+id/button4"
-                android:layout_alignStart="@+id/button4"
-                android:layout_row="2"
-                android:layout_column="8"
-                android:onClick="onClickECGBtn"
-                android:focusable="false" />
-        </GridLayout>
-
-        <GridLayout
-            android:layout_width="wrap_content"
-            android:layout_height="110dp"
-            android:columnCount="10"
-            android:rowCount="5"
-            android:layout_gravity="center_horizontal"
-            android:id="@+id/gridLayout"
-            android:layout_centerVertical="true"
-            android:layout_alignLeft="@+id/gridLayout3"
-            android:layout_alignStart="@+id/gridLayout3">
-
-            <Button
-                android:layout_width="100dp"
-                android:layout_height="100dp"
-                android:text="ALSRM"
-                android:id="@+id/button5"
-                android:background="@drawable/round_button"
-                android:layout_marginBottom="85dp"
-                android:layout_above="@+id/button4"
-                android:layout_alignLeft="@+id/button4"
-                android:layout_alignStart="@+id/button4"
-                android:layout_row="2"
-                android:layout_column="8" />
-        </GridLayout>
-
-        <GridLayout
-            android:layout_width="wrap_content"
-            android:layout_height="110dp"
-            android:columnCount="10"
-            android:rowCount="5"
-            android:layout_gravity="center_horizontal"
-            android:layout_alignParentBottom="true"
-            android:layout_toLeftOf="@+id/gridLayout"
-            android:layout_toStartOf="@+id/gridLayout"
-            android:layout_marginBottom="39dp"
-            android:id="@+id/gridLayout2">
-
-            <Button
-                android:layout_width="100dp"
-                android:layout_height="100dp"
-                android:text="EMG"
-                android:id="@+id/button7"
-                android:background="@drawable/round_button"
-                android:layout_marginBottom="85dp"
-                android:layout_above="@+id/button4"
-                android:layout_alignLeft="@+id/button4"
-                android:layout_alignStart="@+id/button4"
-                android:layout_row="2"
-                android:layout_column="8"
-                android:onClick="onClickEMGBtn"/>
-        </GridLayout>
-
-        <GridLayout
-            android:layout_width="wrap_content"
-            android:layout_height="110dp"
-            android:columnCount="10"
-            android:rowCount="5"
-            android:layout_gravity="center_horizontal"
-            android:layout_alignTop="@+id/gridLayout2"
-            android:layout_toRightOf="@+id/gridLayout"
-            android:layout_toEndOf="@+id/gridLayout"
-            android:id="@+id/gridLayout4">
-
-            <Button
-                android:layout_width="100dp"
-                android:layout_height="100dp"
-                android:text="EDA"
-                android:id="@+id/button8"
-                android:background="@drawable/round_button"
-                android:layout_marginBottom="85dp"
-                android:layout_above="@+id/button4"
-                android:layout_alignLeft="@+id/button4"
-                android:layout_alignStart="@+id/button4"
-                android:layout_row="2"
-                android:layout_column="8"
-                android:onClick="onClickEDABtn"/>
-        </GridLayout>
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:rotation="-90"
-            android:id="@+id/textView2"
-            android:background="@drawable/line"
-            android:text="                                            "
-            android:layout_above="@+id/gridLayout"
-            android:layout_centerHorizontal="true" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:rotation="-48"
-            android:id="@+id/textView5"
-            android:background="@drawable/line"
-            android:text="                                                       "
-            android:layout_alignWithParentIfMissing="false"
-            android:singleLine="false"
-            android:layout_below="@+id/gridLayout"
-            android:layout_alignRight="@+id/gridLayout"
-            android:layout_alignEnd="@+id/gridLayout" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:rotation="48"
-            android:id="@+id/textView6"
-            android:background="@drawable/line"
-            android:text="                                                       "
-            android:layout_below="@+id/gridLayout"
-            android:layout_alignLeft="@+id/gridLayout"
-            android:layout_alignStart="@+id/gridLayout" />
-
-    </RelativeLayout>
-</LinearLayout>
+</android.support.v4.widget.DrawerLayout>

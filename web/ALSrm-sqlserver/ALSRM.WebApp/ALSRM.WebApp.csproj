@@ -300,6 +300,16 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>RecoveryPasswordResources.resx</DependentUpon>
     </Compile>
+    <Compile Include="Resources\SuccessfulyRegisterResources.pt.Designer.cs">
+      <DependentUpon>SuccessfulyRegisterResources.pt.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Resources\SuccessfulyRegisterResources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SuccessfulyRegisterResources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Resources\UserResources.pt.Designer.cs">
       <DependentUpon>UserResources.pt.resx</DependentUpon>
       <AutoGen>True</AutoGen>
@@ -574,6 +584,14 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>RecoveryPasswordResources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\SuccessfulyRegisterResources.pt.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>SuccessfulyRegisterResources.pt.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\SuccessfulyRegisterResources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>SuccessfulyRegisterResources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Resources\UserResources.pt.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>

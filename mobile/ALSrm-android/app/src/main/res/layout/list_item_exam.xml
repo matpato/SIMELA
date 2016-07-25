@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:tag="phone_screen"
+    android:paddingLeft="35dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textStyle="bold"
+        android:text="ExamInitialDate"
+        android:id="@+id/ExamInitialDate"
+        android:elegantTextHeight="false"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:paddingLeft="25dp"
+        android:layout_below="@+id/ImageMuscle"
+        android:layout_toRightOf="@+id/ImageState"
+        android:layout_toEndOf="@+id/ImageState"
+        android:textSize="15dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textStyle="bold"
+        android:text="ExamEndDate"
+        android:id="@+id/ExamEndDate"
+        android:layout_below="@+id/ExamInitialDate"
+        android:layout_alignLeft="@+id/ExamInitialDate"
+        android:layout_alignStart="@+id/ExamInitialDate"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:singleLine="true"
+        android:maxLines="1"
+        android:paddingLeft="25dp"
+        android:textSize="15dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textStyle="bold"
+        android:text="ExamType"
+        android:id="@+id/ExamType"
+        android:paddingLeft="25dp"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/ImageState"
+        android:layout_toEndOf="@+id/ImageState"
+        android:paddingTop="15dp"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ImageState"
+        android:src="@drawable/pending"
+        android:adjustViewBounds="true"
+        android:cropToPadding="false"
+        android:background="@android:color/transparent"
+        android:scaleType="fitXY"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:paddingTop="25dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ImageMuscle"
+        android:src="@drawable/fig_head"
+        android:adjustViewBounds="true"
+        android:cropToPadding="false"
+        android:background="@android:color/transparent"
+        android:scaleType="fitXY"
+        android:paddingLeft="30dp"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/ExamType"
+        android:layout_toEndOf="@+id/ExamType" />
+
+</RelativeLayout>

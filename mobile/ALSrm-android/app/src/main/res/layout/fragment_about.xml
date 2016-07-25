@@ -1,0 +1,104 @@
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/container">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/about_text"
+        android:id="@+id/textView"
+        android:padding="15dp"
+        android:layout_marginBottom="10dp" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButtonProgrammerNuno"
+        android:src="@drawable/nuno100"
+        android:adjustViewBounds="true"
+        android:cropToPadding="false"
+        android:background="@android:color/transparent"
+        android:scaleType="centerCrop"
+        android:contentDescription="@string/programmer"
+        android:paddingLeft="15dp"
+        android:layout_alignTop="@+id/nameProgrammerNuno"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Nuno Malés"
+        android:id="@+id/nameProgrammerNuno"
+        android:paddingTop="15dp"
+        android:layout_below="@+id/textView"
+        android:layout_toRightOf="@+id/imageButtonProgrammerNuno"
+        android:layout_toEndOf="@+id/imageButtonProgrammerNuno"
+        android:layout_marginLeft="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="nunomiguelmales@gmail.com"
+        android:id="@+id/emailProgrammerNuno"
+        android:autoLink="email"
+        android:layout_below="@+id/nameProgrammerNuno"
+        android:layout_alignLeft="@+id/nameProgrammerNuno"
+        android:layout_alignStart="@+id/nameProgrammerNuno"
+        android:paddingTop="5dp" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButtonProgrammerTiago"
+        android:src="@drawable/tiago100"
+        android:adjustViewBounds="true"
+        android:cropToPadding="false"
+        android:background="@android:color/transparent"
+        android:scaleType="centerCrop"
+        android:contentDescription="@string/programmer"
+        android:paddingLeft="15dp"
+        android:paddingTop="30dp"
+        android:layout_below="@+id/imageButtonProgrammerNuno"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Tiago Bogalho"
+        android:id="@+id/nameProgrammerTiago"
+        android:paddingTop="15dp"
+        android:layout_alignTop="@+id/imageButtonProgrammerTiago"
+        android:layout_alignLeft="@+id/emailProgrammerNuno"
+        android:layout_alignStart="@+id/emailProgrammerNuno"
+        android:layout_marginTop="31dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="tiagobogalho8@gmail.com"
+        android:id="@+id/emailProgrammerTiago"
+        android:autoLink="email"
+        android:paddingTop="5dp"
+        android:layout_below="@+id/nameProgrammerTiago"
+        android:layout_alignLeft="@+id/nameProgrammerTiago"
+        android:layout_alignStart="@+id/nameProgrammerTiago" />
+
+    <ImageView
+        android:id="@+id/expanded_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="invisible"
+        android:contentDescription="@string/description_zoom_touch_close"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout >

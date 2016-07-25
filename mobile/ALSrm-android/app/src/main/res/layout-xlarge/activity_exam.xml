@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="2"
+    android:orientation="vertical"
+    android:tag="tablet_screen_xlarge"
+    android:padding="5dp">
+
+    <com.github.mikephil.charting.charts.LineChart
+        android:id="@+id/chart"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.1" />
+
+    <RelativeLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.9">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/button_start_pause"
+            android:onClick="onClick_button_start_pause"
+            android:src="@drawable/play_xlarge"
+            android:background="@android:color/transparent"
+            android:scaleType="fitXY"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/button_stop"
+            android:onClick="onClick_button_stop"
+            android:src="@drawable/stop_xlarge"
+            android:background="@android:color/transparent"
+            android:scaleType="fitXY"
+            android:layout_below="@+id/button_start_pause"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="31dp" />
+
+        <Chronometer
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/chronometer"
+            android:textSize="50dp"
+            android:layout_above="@+id/button_start_pause"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="36dp"
+            android:visibility="invisible" />
+
+    </RelativeLayout>
+</LinearLayout>
