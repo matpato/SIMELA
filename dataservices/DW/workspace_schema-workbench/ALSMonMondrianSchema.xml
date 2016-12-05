@@ -1,0 +1,280 @@
+<Schema name="ALSMonMondrianSchema">
+  <Dimension type="StandardDimension" visible="true" highCardinality="false" name="DimTime">
+    <Hierarchy name="fulltime24" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_time">
+      </Table>
+      <Level name="fulltime24" visible="true" table="dim_time" column="fulltime24" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="fulltime12" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_time">
+      </Table>
+      <Level name="fulltime12" visible="true" table="dim_time" column="fulltime12" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="hour24-minute-second" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_time">
+      </Table>
+      <Level name="hour24" visible="true" table="dim_time" column="hour24" type="Integer" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+      <Level name="minute" visible="true" table="dim_time" column="minute" type="Integer" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+      <Level name="second" visible="true" table="dim_time" column="second" type="Integer" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="hour12-minute-second" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_time">
+      </Table>
+      <Level name="hour12" visible="true" table="dim_time" column="hour12" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+      <Level name="minute" visible="true" table="dim_time" column="minute" type="Integer" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+      <Level name="second" visible="true" table="dim_time" column="second" type="Integer" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="period_pt-hour24-minute-second" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_time">
+      </Table>
+      <Level name="period_pt" visible="true" table="dim_time" column="period_pt" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+      <Level name="hour24" visible="true" table="dim_time" column="hour24" type="Integer" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+      <Level name="minute" visible="true" table="dim_time" column="minute" type="Integer" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+      <Level name="second" visible="true" table="dim_time" column="second" type="Integer" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="period_en-hour12-minute-second" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_time">
+      </Table>
+      <Level name="period_en" visible="true" table="dim_time" column="period_en" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+      <Level name="hour12" visible="true" table="dim_time" column="hour12" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+      <Level name="minute" visible="true" table="dim_time" column="minute" type="Integer" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+      <Level name="second" visible="true" table="dim_time" column="second" type="Integer" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+  </Dimension>
+  <Dimension type="TimeDimension" visible="true" highCardinality="false" name="DimDate">
+    <Hierarchy name="smalldate" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_date">
+      </Table>
+      <Level name="smalldate" visible="true" table="dim_date" column="date_iso" type="Date" uniqueMembers="false" levelType="TimeUndefined" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="fulldate_pt" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_date">
+      </Table>
+      <Level name="fulldate_pt" visible="true" table="dim_date" column="fulldate_pt" type="Date" uniqueMembers="false" levelType="TimeUndefined" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="fulldate_en" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_date">
+      </Table>
+      <Level name="fulldate_en" visible="true" table="dim_date" column="fulldate_en" type="Date" uniqueMembers="false" levelType="TimeUndefined" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="year-quarter-monthname_pt-day" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_date">
+      </Table>
+      <Level name="year" visible="true" table="dim_date" column="year" type="Integer" uniqueMembers="false" levelType="TimeYears" hideMemberIf="Never">
+      </Level>
+      <Level name="quarter" visible="true" table="dim_date" column="year_quarter" ordinalColumn="quarter" type="String" uniqueMembers="false" levelType="TimeUndefined" hideMemberIf="Never">
+      </Level>
+      <Level name="monthname_pt" visible="true" table="dim_date" column="year_monthname_pt" ordinalColumn="monthnumber" type="String" uniqueMembers="false" levelType="TimeMonths" hideMemberIf="Never">
+      </Level>
+      <Level name="dayofmonth" visible="true" table="dim_date" column="dayofmonth" type="Integer" uniqueMembers="false" levelType="TimeDays" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="year-quarter-monthname_en-day" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_date">
+      </Table>
+      <Level name="year" visible="true" table="dim_date" column="year" type="Integer" uniqueMembers="false" levelType="TimeYears" hideMemberIf="Never">
+      </Level>
+      <Level name="quarter" visible="true" table="dim_date" column="year_quarter" ordinalColumn="quarter" type="String" uniqueMembers="false" levelType="TimeQuarters" hideMemberIf="Never">
+      </Level>
+      <Level name="monthname_en" visible="true" table="dim_date" column="year_monthname_en" ordinalColumn="monthnumber" type="String" uniqueMembers="false" levelType="TimeMonths" hideMemberIf="Never">
+      </Level>
+      <Level name="dayofmonth" visible="true" table="dim_date" column="dayofmonth" type="Integer" uniqueMembers="false" levelType="TimeDays" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="year-monthname_pt-day" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_date">
+      </Table>
+      <Level name="year" visible="true" table="dim_date" column="year" type="Integer" uniqueMembers="false" levelType="TimeYears" hideMemberIf="Never">
+      </Level>
+      <Level name="monthname_pt" visible="true" table="dim_date" column="year_monthname_pt" ordinalColumn="monthnumber" type="String" uniqueMembers="false" levelType="TimeMonths" hideMemberIf="Never">
+      </Level>
+      <Level name="dayofmonth" visible="true" table="dim_date" column="dayofmonth" type="Integer" uniqueMembers="false" levelType="TimeDays" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="year-monthname_en-day" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_date">
+      </Table>
+      <Level name="year" visible="true" table="dim_date" column="year" type="Integer" uniqueMembers="false" levelType="TimeYears" hideMemberIf="Never">
+      </Level>
+      <Level name="monthname_pt" visible="true" table="dim_date" column="year_monthname_en" ordinalColumn="monthnumber" type="String" uniqueMembers="false" levelType="TimeMonths" hideMemberIf="Never">
+      </Level>
+      <Level name="dayofmonth" visible="true" table="dim_date" column="dayofmonth" type="Integer" uniqueMembers="false" levelType="TimeDays" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="year-week-dayname_pt" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_date">
+      </Table>
+      <Level name="year" visible="true" table="dim_date" column="year" type="Integer" uniqueMembers="false" levelType="TimeYears" hideMemberIf="Never">
+      </Level>
+      <Level name="weekofyear" visible="true" table="dim_date" column="year_weekofyear" type="String" uniqueMembers="false" levelType="TimeWeeks" hideMemberIf="Never">
+      </Level>
+      <Level name="dayname_pt" visible="true" table="dim_date" column="dayname_pt" ordinalColumn="dayofweek" type="String" uniqueMembers="false" levelType="TimeDays" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="year-week-dayname_en" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_date">
+      </Table>
+      <Level name="year" visible="true" table="dim_date" column="year" type="Integer" uniqueMembers="false" levelType="TimeYears" hideMemberIf="Never">
+      </Level>
+      <Level name="weekofyear" visible="true" table="dim_date" column="year_weekofyear" type="String" uniqueMembers="false" levelType="TimeUndefined" hideMemberIf="Never">
+      </Level>
+      <Level name="dayname_en" visible="true" table="dim_date" column="dayname_en" ordinalColumn="dayofweek" type="String" uniqueMembers="false" levelType="TimeDays" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="quarter-monthname_pt-day" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_date">
+      </Table>
+      <Level name="quarter" visible="true" table="dim_date" column="quarter" type="Integer" uniqueMembers="false" levelType="TimeQuarters" hideMemberIf="Never">
+      </Level>
+      <Level name="monthname_pt" visible="true" table="dim_date" column="monthname_pt" ordinalColumn="monthnumber" type="String" uniqueMembers="false" levelType="TimeMonths" hideMemberIf="Never">
+      </Level>
+      <Level name="dayofmonth" visible="true" table="dim_date" column="dayofmonth" type="Integer" uniqueMembers="false" levelType="TimeDays" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="quarter-monthname_en-day" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_date">
+      </Table>
+      <Level name="quarter" visible="true" table="dim_date" column="quarter" type="Integer" uniqueMembers="false" levelType="TimeQuarters" hideMemberIf="Never">
+      </Level>
+      <Level name="monthname_en" visible="true" table="dim_date" column="monthname_en" ordinalColumn="monthnumber" type="String" uniqueMembers="false" levelType="TimeMonths" hideMemberIf="Never">
+      </Level>
+      <Level name="dayofmonth" visible="true" table="dim_date" column="dayofmonth" type="Integer" uniqueMembers="false" levelType="TimeDays" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="week-dayname_pt" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_date">
+      </Table>
+      <Level name="week" visible="true" table="dim_date" column="weekofyear" type="Integer" uniqueMembers="false" levelType="TimeWeeks" hideMemberIf="Never">
+      </Level>
+      <Level name="dayname_pt" visible="true" table="dim_date" column="dayname_pt" ordinalColumn="dayofweek" type="String" uniqueMembers="false" levelType="TimeDays" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="week-dayname_en" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_date">
+      </Table>
+      <Level name="week" visible="true" table="dim_date" column="weekofyear" type="Integer" uniqueMembers="false" levelType="TimeWeeks" hideMemberIf="Never">
+      </Level>
+      <Level name="dayname_en" visible="true" table="dim_date" column="dayname_en" ordinalColumn="dayofweek" type="String" uniqueMembers="false" levelType="TimeDays" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+  </Dimension>
+  <Dimension type="StandardDimension" visible="true" highCardinality="false" name="DimPatient">
+    <Hierarchy name="patient_id" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_patient">
+      </Table>
+      <Level name="patient_id" visible="true" table="dim_patient" column="patient_id" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="name" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_patient">
+      </Table>
+      <Level name="name" visible="true" table="dim_patient" column="name" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="gender" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_patient">
+      </Table>
+      <Level name="gender" visible="true" table="dim_patient" column="gender" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="birthdate" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_patient">
+      </Table>
+      <Level name="birthdate" visible="true" table="dim_patient" column="birthdate" type="Date" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="createdon" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_patient">
+      </Table>
+      <Level name="createdon" visible="true" table="dim_patient" column="createdon" type="Date" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="updatedon" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_patient">
+      </Table>
+      <Level name="updatedon" visible="true" table="dim_patient" column="updatedon" type="Date" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="diagnosedon" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_patient">
+      </Table>
+      <Level name="diagnosedon" visible="true" table="dim_patient" column="diagnosedon" type="Date" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+  </Dimension>
+  <Dimension type="StandardDimension" visible="true" highCardinality="false" name="DimMuscle">
+    <Hierarchy name="muscle_id" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_muscle">
+      </Table>
+      <Level name="muscle_id" visible="true" table="dim_muscle" column="muscle_id" type="Integer" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="name" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_muscle">
+      </Table>
+      <Level name="name" visible="true" table="dim_muscle" column="name" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="acronym" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_muscle">
+      </Table>
+      <Level name="acronym" visible="true" table="dim_muscle" column="acronym" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="side" visible="true" hasAll="true" primaryKey="keycol">
+      <Table name="dim_muscle">
+      </Table>
+      <Level name="side" visible="true" table="dim_muscle" column="side" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+    <Hierarchy name="name-side" visible="true" hasAll="true">
+      <Table name="dim_muscle">
+      </Table>
+      <Level name="name" visible="true" table="dim_muscle" column="name" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+      <Level name="side" visible="true" table="dim_muscle" column="side" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+  </Dimension>
+  <Cube name="ALSMon" visible="true" cache="true" enabled="true">
+    <Table name="fact_emg">
+    </Table>
+    <DimensionUsage source="DimTime" name="DimTime" visible="true" foreignKey="time_keycol" highCardinality="false">
+    </DimensionUsage>
+    <DimensionUsage source="DimDate" name="DimDate" visible="true" foreignKey="date_keycol" highCardinality="false">
+    </DimensionUsage>
+    <DimensionUsage source="DimPatient" name="DimPatient" visible="true" foreignKey="patient_keycol" highCardinality="false">
+    </DimensionUsage>
+    <DimensionUsage source="DimMuscle" name="DimMuscle" visible="true" foreignKey="muscle_keycol" highCardinality="false">
+    </DimensionUsage>
+    <Measure name="area" column="area" datatype="Numeric" aggregator="avg" visible="true">
+    </Measure>
+    <Measure name="nr_peaks" column="nr_peaks" datatype="Integer" aggregator="distinct-count" visible="true">
+    </Measure>
+    <Measure name="electrode" column="electrode" datatype="String" aggregator="count" visible="true">
+    </Measure>
+    <Measure name="low_pass" column="low_pass" datatype="String" aggregator="count" visible="true">
+    </Measure>
+    <Measure name="high_pass" column="high_pass" datatype="String" aggregator="count" visible="true">
+    </Measure>
+  </Cube>
+</Schema>

@@ -1,0 +1,220 @@
+<list>
+  <string>1.0</string>
+  <org.pentaho.di.core.database.DatabaseMeta>  &lt;connection&gt;
+    &lt;name&gt;alsm_starschema&lt;/name&gt;
+    &lt;server&gt;localhost&lt;/server&gt;
+    &lt;type&gt;MYSQL&lt;/type&gt;
+    &lt;access&gt;Native&lt;/access&gt;
+    &lt;database&gt;alsm_starschema&lt;/database&gt;
+    &lt;port&gt;3306&lt;/port&gt;
+    &lt;username&gt;admin&lt;/username&gt;
+    &lt;password&gt;Encrypted 2be98afc86aa7f2e4cb79af7ccd9fa0d4&lt;/password&gt;
+    &lt;servername/&gt;
+    &lt;data_tablespace/&gt;
+    &lt;index_tablespace/&gt;
+    &lt;attributes&gt;
+      &lt;attribute&gt;&lt;code&gt;EXTRA_OPTION_MYSQL.defaultFetchSize&lt;/code&gt;&lt;attribute&gt;500&lt;/attribute&gt;&lt;/attribute&gt;
+      &lt;attribute&gt;&lt;code&gt;EXTRA_OPTION_MYSQL.useCursorFetch&lt;/code&gt;&lt;attribute&gt;true&lt;/attribute&gt;&lt;/attribute&gt;
+      &lt;attribute&gt;&lt;code&gt;FORCE_IDENTIFIERS_TO_LOWERCASE&lt;/code&gt;&lt;attribute&gt;N&lt;/attribute&gt;&lt;/attribute&gt;
+      &lt;attribute&gt;&lt;code&gt;FORCE_IDENTIFIERS_TO_UPPERCASE&lt;/code&gt;&lt;attribute&gt;N&lt;/attribute&gt;&lt;/attribute&gt;
+      &lt;attribute&gt;&lt;code&gt;PORT_NUMBER&lt;/code&gt;&lt;attribute&gt;3306&lt;/attribute&gt;&lt;/attribute&gt;
+      &lt;attribute&gt;&lt;code&gt;PRESERVE_RESERVED_WORD_CASE&lt;/code&gt;&lt;attribute&gt;N&lt;/attribute&gt;&lt;/attribute&gt;
+      &lt;attribute&gt;&lt;code&gt;QUOTE_ALL_FIELDS&lt;/code&gt;&lt;attribute&gt;N&lt;/attribute&gt;&lt;/attribute&gt;
+      &lt;attribute&gt;&lt;code&gt;STREAM_RESULTS&lt;/code&gt;&lt;attribute&gt;Y&lt;/attribute&gt;&lt;/attribute&gt;
+      &lt;attribute&gt;&lt;code&gt;SUPPORTS_BOOLEAN_DATA_TYPE&lt;/code&gt;&lt;attribute&gt;Y&lt;/attribute&gt;&lt;/attribute&gt;
+      &lt;attribute&gt;&lt;code&gt;SUPPORTS_TIMESTAMP_DATA_TYPE&lt;/code&gt;&lt;attribute&gt;Y&lt;/attribute&gt;&lt;/attribute&gt;
+    &lt;/attributes&gt;
+  &lt;/connection&gt;
+</org.pentaho.di.core.database.DatabaseMeta>
+  <org.pentaho.aggdes.ui.ext.impl.MondrianFileSchemaModel>
+    <schemaChecksum>3617438323</schemaChecksum>
+    <mondrianSchemaFilename>/alsmon/dw/workspace_schema-workbench/ALSMonMondrianSchema.xml</mondrianSchemaFilename>
+    <cubeName>ALSMon</cubeName>
+  </org.pentaho.aggdes.ui.ext.impl.MondrianFileSchemaModel>
+  <org.pentaho.aggdes.ui.model.impl.AggListImpl>
+    <aggregation>
+      <algoAgg>false</algoAgg>
+      <name>DimDate-y_DimPatient-n_DimMuscle-n</name>
+      <description></description>
+      <attributes>
+        <org.pentaho.aggdes.model.mondrian.MondrianAttribute>
+          <label>[dim_date].[year]</label>
+          <table>dim_date</table>
+        </org.pentaho.aggdes.model.mondrian.MondrianAttribute>
+        <org.pentaho.aggdes.model.mondrian.MondrianAttribute>
+          <label>[dim_patient].[name]</label>
+          <table>dim_patient</table>
+        </org.pentaho.aggdes.model.mondrian.MondrianAttribute>
+        <org.pentaho.aggdes.model.mondrian.MondrianAttribute>
+          <label>[dim_muscle].[name]</label>
+          <table>dim_muscle</table>
+        </org.pentaho.aggdes.model.mondrian.MondrianAttribute>
+      </attributes>
+      <output class="org.pentaho.aggdes.output.impl.AggregateTableOutput">
+        <tableName>DimDatey_DimPatientn_DimMuscle</tableName>
+        <aggregate class="org.pentaho.aggdes.ui.model.impl.UIAggregateImpl" reference="../.."/>
+        <columns>
+          <org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+            <name>dim_date_year</name>
+            <attribute class="org.pentaho.aggdes.model.mondrian.MondrianAttribute" reference="../../../../attributes/org.pentaho.aggdes.model.mondrian.MondrianAttribute"/>
+          </org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+          <org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+            <name>dim_patient_name</name>
+            <attribute class="org.pentaho.aggdes.model.mondrian.MondrianAttribute" reference="../../../../attributes/org.pentaho.aggdes.model.mondrian.MondrianAttribute[2]"/>
+          </org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+          <org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+            <name>dim_muscle_name</name>
+            <attribute class="org.pentaho.aggdes.model.mondrian.MondrianAttribute" reference="../../../../attributes/org.pentaho.aggdes.model.mondrian.MondrianAttribute[3]"/>
+          </org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+          <org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+            <name>fact_emg_area</name>
+            <attribute class="org.pentaho.aggdes.model.mondrian.MondrianMeasure">
+              <label>fact_emg.area</label>
+              <table>fact_emg</table>
+            </attribute>
+          </org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+          <org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+            <name>fact_emg_nr_peaks</name>
+            <attribute class="org.pentaho.aggdes.model.mondrian.MondrianMeasure">
+              <label>fact_emg.nr_peaks</label>
+              <table>fact_emg</table>
+            </attribute>
+          </org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+          <org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+            <name>fact_emg_electrode</name>
+            <attribute class="org.pentaho.aggdes.model.mondrian.MondrianMeasure">
+              <label>fact_emg.electrode</label>
+              <table>fact_emg</table>
+            </attribute>
+          </org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+          <org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+            <name>fact_emg_low_pass</name>
+            <attribute class="org.pentaho.aggdes.model.mondrian.MondrianMeasure">
+              <label>fact_emg.low_pass</label>
+              <table>fact_emg</table>
+            </attribute>
+          </org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+          <org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+            <name>fact_emg_high_pass</name>
+            <attribute class="org.pentaho.aggdes.model.mondrian.MondrianMeasure">
+              <label>fact_emg.high_pass</label>
+              <table>fact_emg</table>
+            </attribute>
+          </org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+          <org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+            <name>fact_emg_fact_count</name>
+            <attribute class="org.pentaho.aggdes.model.mondrian.MondrianMeasure">
+              <label>fact_emg.fact_count</label>
+              <table>fact_emg</table>
+            </attribute>
+          </org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+        </columns>
+      </output>
+      <measures>
+        <org.pentaho.aggdes.model.mondrian.MondrianMeasure reference="../../output/columns/org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput[4]/attribute"/>
+        <org.pentaho.aggdes.model.mondrian.MondrianMeasure reference="../../output/columns/org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput[5]/attribute"/>
+        <org.pentaho.aggdes.model.mondrian.MondrianMeasure reference="../../output/columns/org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput[6]/attribute"/>
+        <org.pentaho.aggdes.model.mondrian.MondrianMeasure reference="../../output/columns/org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput[7]/attribute"/>
+        <org.pentaho.aggdes.model.mondrian.MondrianMeasure reference="../../output/columns/org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput[8]/attribute"/>
+        <org.pentaho.aggdes.model.mondrian.MondrianMeasure reference="../../output/columns/org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput[9]/attribute"/>
+      </measures>
+      <enabled>true</enabled>
+      <estimateRowCount>458.7842457993137</estimateRowCount>
+      <estimateSpace>20186.506815169803</estimateSpace>
+    </aggregation>
+    <aggregation>
+      <algoAgg>false</algoAgg>
+      <name>DimTime-p_DimDate-y_DimPatient-n</name>
+      <description></description>
+      <attributes>
+        <org.pentaho.aggdes.model.mondrian.MondrianAttribute>
+          <label>[dim_time].[period_pt]</label>
+          <table>dim_time</table>
+        </org.pentaho.aggdes.model.mondrian.MondrianAttribute>
+        <org.pentaho.aggdes.model.mondrian.MondrianAttribute reference="../../../aggregation/attributes/org.pentaho.aggdes.model.mondrian.MondrianAttribute"/>
+        <org.pentaho.aggdes.model.mondrian.MondrianAttribute reference="../../../aggregation/attributes/org.pentaho.aggdes.model.mondrian.MondrianAttribute[2]"/>
+      </attributes>
+      <output class="org.pentaho.aggdes.output.impl.AggregateTableOutput">
+        <tableName>DimTimep_DimDatey_DimPatientn</tableName>
+        <aggregate class="org.pentaho.aggdes.ui.model.impl.UIAggregateImpl" reference="../.."/>
+        <columns>
+          <org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+            <name>dim_time_period_pt</name>
+            <attribute class="org.pentaho.aggdes.model.mondrian.MondrianAttribute" reference="../../../../attributes/org.pentaho.aggdes.model.mondrian.MondrianAttribute"/>
+          </org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+          <org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+            <name>dim_date_year</name>
+            <attribute class="org.pentaho.aggdes.model.mondrian.MondrianAttribute" reference="../../../../../aggregation/attributes/org.pentaho.aggdes.model.mondrian.MondrianAttribute"/>
+          </org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+          <org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+            <name>dim_patient_name</name>
+            <attribute class="org.pentaho.aggdes.model.mondrian.MondrianAttribute" reference="../../../../../aggregation/attributes/org.pentaho.aggdes.model.mondrian.MondrianAttribute[2]"/>
+          </org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+          <org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+            <name>fact_emg_area</name>
+            <attribute class="org.pentaho.aggdes.model.mondrian.MondrianMeasure" reference="../../../../../aggregation/output/columns/org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput[4]/attribute"/>
+          </org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+          <org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+            <name>fact_emg_nr_peaks</name>
+            <attribute class="org.pentaho.aggdes.model.mondrian.MondrianMeasure" reference="../../../../../aggregation/output/columns/org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput[5]/attribute"/>
+          </org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+          <org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+            <name>fact_emg_fact_count</name>
+            <attribute class="org.pentaho.aggdes.model.mondrian.MondrianMeasure" reference="../../../../../aggregation/output/columns/org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput[9]/attribute"/>
+          </org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+        </columns>
+      </output>
+      <measures>
+        <org.pentaho.aggdes.model.mondrian.MondrianMeasure reference="../../../aggregation/output/columns/org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput[4]/attribute"/>
+        <org.pentaho.aggdes.model.mondrian.MondrianMeasure reference="../../../aggregation/output/columns/org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput[5]/attribute"/>
+        <org.pentaho.aggdes.model.mondrian.MondrianMeasure reference="../../../aggregation/output/columns/org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput[9]/attribute"/>
+      </measures>
+      <enabled>true</enabled>
+      <estimateRowCount>461.077435172841</estimateRowCount>
+      <estimateSpace>20287.407147605</estimateSpace>
+    </aggregation>
+    <aggregation>
+      <algoAgg>false</algoAgg>
+      <name>DimDate-y_DimPatient-n</name>
+      <description></description>
+      <attributes>
+        <org.pentaho.aggdes.model.mondrian.MondrianAttribute reference="../../../aggregation/attributes/org.pentaho.aggdes.model.mondrian.MondrianAttribute"/>
+        <org.pentaho.aggdes.model.mondrian.MondrianAttribute reference="../../../aggregation/attributes/org.pentaho.aggdes.model.mondrian.MondrianAttribute[2]"/>
+      </attributes>
+      <output class="org.pentaho.aggdes.output.impl.AggregateTableOutput">
+        <tableName>DimDatey_DimPatientn</tableName>
+        <aggregate class="org.pentaho.aggdes.ui.model.impl.UIAggregateImpl" reference="../.."/>
+        <columns>
+          <org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+            <name>dim_date_year</name>
+            <attribute class="org.pentaho.aggdes.model.mondrian.MondrianAttribute" reference="../../../../../aggregation/attributes/org.pentaho.aggdes.model.mondrian.MondrianAttribute"/>
+          </org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+          <org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+            <name>dim_patient_name</name>
+            <attribute class="org.pentaho.aggdes.model.mondrian.MondrianAttribute" reference="../../../../../aggregation/attributes/org.pentaho.aggdes.model.mondrian.MondrianAttribute[2]"/>
+          </org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+          <org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+            <name>fact_emg_area</name>
+            <attribute class="org.pentaho.aggdes.model.mondrian.MondrianMeasure" reference="../../../../../aggregation/output/columns/org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput[4]/attribute"/>
+          </org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+          <org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+            <name>fact_emg_nr_peaks</name>
+            <attribute class="org.pentaho.aggdes.model.mondrian.MondrianMeasure" reference="../../../../../aggregation/output/columns/org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput[5]/attribute"/>
+          </org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+          <org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+            <name>fact_emg_fact_count</name>
+            <attribute class="org.pentaho.aggdes.model.mondrian.MondrianMeasure" reference="../../../../../aggregation/output/columns/org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput[9]/attribute"/>
+          </org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput>
+        </columns>
+      </output>
+      <measures>
+        <org.pentaho.aggdes.model.mondrian.MondrianMeasure reference="../../../aggregation/output/columns/org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput[4]/attribute"/>
+        <org.pentaho.aggdes.model.mondrian.MondrianMeasure reference="../../../aggregation/output/columns/org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput[5]/attribute"/>
+        <org.pentaho.aggdes.model.mondrian.MondrianMeasure reference="../../../aggregation/output/columns/org.pentaho.aggdes.output.impl.AggregateTableOutput_-ColumnOutput[9]/attribute"/>
+      </measures>
+      <enabled>true</enabled>
+      <estimateRowCount>270.95485863104807</estimateRowCount>
+      <estimateSpace>6502.916607145154</estimateSpace>
+    </aggregation>
+  </org.pentaho.aggdes.ui.model.impl.AggListImpl>
+</list>

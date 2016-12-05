@@ -1,0 +1,10 @@
+Endereço serviço: https://alsmon.adeetc.e.ipl.pt:8443/UploadFileService/services
+Endereço contrato: https://alsmon.adeetc.e.ipl.pt:8443/UploadFileService/services/UploadFile?wsdl
+Desenvolvido em Java.
+Utiliza a API Apache CXF.
+Utiliza a tecnologia MTOM (Message Transmission Optimization Mechanism) para transmitir de modo eficiente os dados binários.
+A autenticação dos clientes é feita utilizando WS-Security (usertoken:username and password).
+O hosting do serviço é feito no tomcat.
+A comunicação entre o cliente e o webservice é encriptada utilizando SSL (autenticação do serviço através do certificado). 
+Todo o software utilizado é open source (Tomcat e Apache CXF).
+Foi criado num projeto maven para aproveitar as vantagens óbvias que o maven oferece: modularidade, consistência, resolver depedências, qualidade. 

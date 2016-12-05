@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><web-app xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+          http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+    version="3.0">
+    <display-name>ODataDALDW</display-name>
+    <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+
+  </welcome-file-list>
+  
+        <security-constraint>
+        <web-resource-collection>
+            <web-resource-name>
+               SecuredODataDALDWSite
+            </web-resource-name>
+            <url-pattern>/DW.svc/*</url-pattern>
+        </web-resource-collection>
+        <auth-constraint>
+            <description>
+            Let only odata users use this app
+            </description>
+            <role-name>odata</role-name>
+        </auth-constraint>
+     <user-data-constraint>
+        <description/>
+        <transport-guarantee>CONFIDENTIAL</transport-guarantee>
+    </user-data-constraint>
+    </security-constraint>
+    <security-role>
+           <role-name>odata</role-name>
+    </security-role>
+    <login-config>
+      <auth-method>BASIC</auth-method>
+    </login-config>
+  
+     <security-constraint>
+    <web-resource-collection>
+        <web-resource-name>
+           PublicODataDALDWSite
+        </web-resource-name>
+        <url-pattern>/DW.svc/$metadata</url-pattern>
+    </web-resource-collection> 
+         <user-data-constraint>
+        <description/>
+        <transport-guarantee>CONFIDENTIAL</transport-guarantee>
+    </user-data-constraint>
+       </security-constraint>
+
+    
+  <servlet>
+    <servlet-name>ODataDALDWServlet</servlet-name>
+    <servlet-class>org.apache.cxf.jaxrs.servlet.CXFNonSpringJaxrsServlet</servlet-class>
+
+    <init-param>
+      <param-name>javax.ws.rs.Application</param-name>
+      <param-value>org.apache.olingo.odata2.core.rest.app.ODataApplication</param-value>
+    </init-param>
+
+    <init-param>
+      <param-name>org.apache.olingo.odata2.service.factory</param-name>
+      <param-value>pt.isel.alsmon.odata.DAL</param-value>
+    </init-param>
+
+    <load-on-startup>1</load-on-startup>
+    
+  </servlet>
+
+ 
+
+  <servlet-mapping>
+    <servlet-name>ODataDALDWServlet</servlet-name>
+    <url-pattern>/DW.svc/*</url-pattern>
+  </servlet-mapping>    
+    
+    
+    
+    
+</web-app>

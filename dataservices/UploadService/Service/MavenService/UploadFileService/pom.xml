@@ -1,0 +1,55 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>UploadFileService</groupId>
+  <artifactId>UploadFileService</artifactId>
+  <version>1.0</version>
+  <packaging>war</packaging>
+
+  <name>UploadFileService</name>
+  <url>http://maven.apache.org</url>
+
+ <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  	<cxf.version>2.7.15</cxf.version>
+  </properties>
+  
+  <dependencies>
+ 		<dependency>
+            <groupId>org.apache.cxf</groupId>
+            <artifactId>cxf-rt-frontend-jaxws</artifactId>
+            <version>${cxf.version}</version>
+            <exclusions>
+            	<exclusion>
+            		<artifactId>jaxb-impl</artifactId>
+            		<groupId>com.sun.xml.bind</groupId>
+            	</exclusion>
+            </exclusions>
+ 		</dependency>
+        <dependency>
+            <groupId>org.apache.cxf</groupId>
+            <artifactId>cxf-rt-transports-http</artifactId>
+            <version>${cxf.version}</version>
+        </dependency>
+        <!-- Jetty is needed if you're using the CXFServlet -->
+        <dependency>
+            <groupId>org.apache.cxf</groupId>
+            <artifactId>cxf-rt-transports-http-jetty</artifactId>
+            <version>${cxf.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.cxf</groupId>
+            <artifactId>cxf-rt-ws-security</artifactId>
+            <version>${cxf.version}</version>
+        </dependency>
+   		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-web</artifactId>
+			<version>4.1.5.RELEASE</version>
+		</dependency>
+  </dependencies>
+
+ 
+
+</project>

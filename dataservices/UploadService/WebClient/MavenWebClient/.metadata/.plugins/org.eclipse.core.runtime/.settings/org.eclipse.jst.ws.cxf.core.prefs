@@ -1,0 +1,7 @@
+cxfRuntimeLocations=/alsmon/odata/utilities/apache-cxf-2.7.15
+cxfRuntimeTypes=Apache CXF
+cxfRuntimeVersions=2.7.15
+defaultRuntimeLocation=/alsmon/odata/utilities/apache-cxf-2.7.15
+defaultRuntimeType=Apache CXF
+defaultRuntimeVersion=2.7.15
+eclipse.preferences.version=1

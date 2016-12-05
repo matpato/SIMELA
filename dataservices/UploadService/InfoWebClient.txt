@@ -1,0 +1,5 @@
+Endereço web: https://alsmon.adeetc.e.ipl.pt:8443/UploadFileServiceWebClient/
+
+Credenciais para autenticação:
+-utilizador: alsmon
+-password: Alsmisel2015

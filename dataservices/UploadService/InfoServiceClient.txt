@@ -1,0 +1,14 @@
+Endereço serviço: https://alsmon.adeetc.e.ipl.pt:8443/UploadFileService/services
+Endereço contrato: https://alsmon.adeetc.e.ipl.pt:8443/UploadFileService/services/UploadFile?wsdl
+
+Desenvolvido em Java.
+Utiliza a API Apache CXF.
+
+Credenciais para autenticar o cliente (utilizando ws-security):
+-utilizador: alsmon
+-password: Alsmisel2015
+
+Para o cliente aceder ao serviço tem que usar SSL e assim é necesario importar o certificado auto assinado do servidor (pasta Utilities/Certificates).
+A forma mais simples é importa-lo no cacerts da java que está a usar. Pode usar o comando:
+<JAVA_HOME>/keytool -import -alias <server_name> -keystore <JAVA_HOME>/lib/security/cacerts -file /caminho_para_certificado/<server_name>.crt
+Keystore password: changeit

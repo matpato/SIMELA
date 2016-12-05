@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<DataSources>
+	<DataSource>
+		<DataSourceName>Provider=Mondrian;DataSource=ALSMonSource;
+		</DataSourceName>
+		<DataSourceDescription>MondrianALSMon Data Warehouse
+		</DataSourceDescription>
+		<URL>https://alsmon.adeetc.e.ipl.pt:8443/OlapXMLA/xmla</URL>
+		<DataSourceInfo>Provider=mondrian;Jdbc=jdbc:mysql://localhost:3306/alsm_starschema;JdbcUser=admin;JdbcPassword=alsmon;JdbcDrivers=com.mysql.jdbc.Driver;Catalog=/WEB-INF/schema/ALSMonMondrianSchema.xml;
+		</DataSourceInfo>
+		<ProviderName>Mondrian</ProviderName>
+		<ProviderType>MDP</ProviderType>
+		<AuthenticationMode>Unauthenticated</AuthenticationMode>
+		<Catalogs>
+			<Catalog name="ALSMon">
+				<Definition>/WEB-INF/schema/ALSMonMondrianSchema.xml</Definition>
+			</Catalog>
+		</Catalogs>
+	</DataSource>
+</DataSources>

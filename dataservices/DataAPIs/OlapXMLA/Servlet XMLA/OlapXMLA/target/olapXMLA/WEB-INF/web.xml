@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" version="3.0">
+  <display-name>OlapXMLA</display-name>
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+  <security-constraint>
+    <web-resource-collection>
+      <web-resource-name>SecuredOlapXMLASite</web-resource-name>
+      <url-pattern>/*</url-pattern>
+    </web-resource-collection>
+    <auth-constraint>
+      <description>
+            Let only OlapXMLA users use this app
+            </description>
+      <role-name>olapxmla</role-name>
+    </auth-constraint>
+    <user-data-constraint>
+      <description></description>
+      <transport-guarantee>CONFIDENTIAL</transport-guarantee>
+    </user-data-constraint>
+  </security-constraint>
+  <security-role>
+    <role-name>olapxmla</role-name>
+  </security-role>
+  <login-config>
+    <auth-method>BASIC</auth-method>
+  </login-config>
+  
+  <servlet>
+    <servlet-name>MondrianXmlaServlet</servlet-name>
+    <servlet-class>pt.isel.alsmon.olap.XmlaServlet</servlet-class>
+    <init-param>
+      <param-name>CharacterEncoding</param-name>
+      <param-value>UTF-8</param-value>
+    </init-param>
+    <load-on-startup>1</load-on-startup>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>MondrianXmlaServlet</servlet-name>
+    <url-pattern>/xmla</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>MDXQueryServlet</servlet-name>
+    <servlet-class>mondrian.web.servlet.MdxQueryServlet</servlet-class>
+    <init-param>
+      <param-name>connectString</param-name>
+      <param-value>Provider=mondrian;Jdbc=jdbc:mysql://localhost:3306/alsm_starschema;Catalog=/WEB-INF/schema/ALSMonMondrianSchema.xml;JdbcUser=admin;JdbcPassword=alsmon;JdbcDrivers=com.mysql.jdbc.Driver;</param-value>
+    </init-param>
+    <load-on-startup>1</load-on-startup>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>MDXQueryServlet</servlet-name>
+    <url-pattern>/mdxquery</url-pattern>
+  </servlet-mapping>
+</web-app>
