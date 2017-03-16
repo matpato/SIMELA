@@ -12,7 +12,7 @@ import retrofit2.http.Query;
 
 public  interface ServerAPI {
 
-        String BASE_URL = "http://alsrm.azurewebsites.net/";//400
+        String BASE_URL = "http://alsrmwebapi.azurewebsites.net"; // MP: alterado a 16-03-2017 "http://alsrm.azurewebsites.net/";//400
 
         @FormUrlEncoded
         @POST("odata/security/token")
